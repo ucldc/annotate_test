@@ -1,0 +1,19 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "history",
+          "mid": "/m/03g3w",
+          "score": 0.50602931
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      }
+    }
+  ]
+}

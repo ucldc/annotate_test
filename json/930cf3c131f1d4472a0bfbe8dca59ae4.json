@@ -1,0 +1,272 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "text",
+          "mid": "/m/07s6nbt",
+          "score": 0.95450866
+        },
+        {
+          "description": "font",
+          "mid": "/m/03gq5hm",
+          "score": 0.76791924
+        },
+        {
+          "description": "product",
+          "mid": "/m/01jwgf",
+          "score": 0.71635932
+        },
+        {
+          "description": "document",
+          "mid": "/m/015bv3",
+          "score": 0.64470661
+        },
+        {
+          "description": "brand",
+          "mid": "/m/01cd9",
+          "score": 0.59691668
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "medical": "UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "textAnnotations": [
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 71,
+                "y": 158
+              },
+              {
+                "x": 240,
+                "y": 158
+              },
+              {
+                "x": 240,
+                "y": 204
+              },
+              {
+                "x": 71,
+                "y": 204
+              }
+            ]
+          },
+          "description": "KEEP THIS HANDBOOK\nWITH OTHER EMERGENCY INSTRUCTIONS\nYOU RECEIVE\n",
+          "locale": "en"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 109,
+                "y": 158
+              },
+              {
+                "x": 126,
+                "y": 158
+              },
+              {
+                "x": 126,
+                "y": 166
+              },
+              {
+                "x": 109,
+                "y": 166
+              }
+            ]
+          },
+          "description": "KEEP"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 132,
+                "y": 158
+              },
+              {
+                "x": 148,
+                "y": 158
+              },
+              {
+                "x": 148,
+                "y": 166
+              },
+              {
+                "x": 132,
+                "y": 166
+              }
+            ]
+          },
+          "description": "THIS"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 154,
+                "y": 158
+              },
+              {
+                "x": 202,
+                "y": 158
+              },
+              {
+                "x": 202,
+                "y": 166
+              },
+              {
+                "x": 154,
+                "y": 166
+              }
+            ]
+          },
+          "description": "HANDBOOK"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 71,
+                "y": 176
+              },
+              {
+                "x": 90,
+                "y": 176
+              },
+              {
+                "x": 90,
+                "y": 184
+              },
+              {
+                "x": 71,
+                "y": 184
+              }
+            ]
+          },
+          "description": "WITH"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 97,
+                "y": 176
+              },
+              {
+                "x": 122,
+                "y": 176
+              },
+              {
+                "x": 122,
+                "y": 184
+              },
+              {
+                "x": 97,
+                "y": 184
+              }
+            ]
+          },
+          "description": "OTHER"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 128,
+                "y": 176
+              },
+              {
+                "x": 176,
+                "y": 176
+              },
+              {
+                "x": 176,
+                "y": 184
+              },
+              {
+                "x": 128,
+                "y": 184
+              }
+            ]
+          },
+          "description": "EMERGENCY"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 182,
+                "y": 176
+              },
+              {
+                "x": 240,
+                "y": 176
+              },
+              {
+                "x": 240,
+                "y": 184
+              },
+              {
+                "x": 182,
+                "y": 184
+              }
+            ]
+          },
+          "description": "INSTRUCTIONS"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 128,
+                "y": 194
+              },
+              {
+                "x": 146,
+                "y": 194
+              },
+              {
+                "x": 146,
+                "y": 204
+              },
+              {
+                "x": 128,
+                "y": 204
+              }
+            ]
+          },
+          "description": "YOU"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 150,
+                "y": 194
+              },
+              {
+                "x": 183,
+                "y": 194
+              },
+              {
+                "x": 183,
+                "y": 204
+              },
+              {
+                "x": 150,
+                "y": 204
+              }
+            ]
+          },
+          "description": "RECEIVE"
+        }
+      ]
+    }
+  ]
+}

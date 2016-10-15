@@ -1,0 +1,180 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "photograph",
+          "mid": "/m/068jd",
+          "score": 0.93878168
+        },
+        {
+          "description": "black and white",
+          "mid": "/m/01g6gs",
+          "score": 0.93544763
+        },
+        {
+          "description": "image",
+          "mid": "/m/0jg24",
+          "score": 0.903764
+        },
+        {
+          "description": "monochrome photography",
+          "mid": "/m/03d49p1",
+          "score": 0.81462151
+        },
+        {
+          "description": "picture frame",
+          "mid": "/m/06z37_",
+          "score": 0.7354269
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "textAnnotations": [
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 201,
+                "y": 265
+              },
+              {
+                "x": 479,
+                "y": 265
+              },
+              {
+                "x": 479,
+                "y": 337
+              },
+              {
+                "x": 201,
+                "y": 337
+              }
+            ]
+          },
+          "description": "SUPPORT BILL RIGHTS\nLABOR\nUNITED\n",
+          "locale": "en"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 202,
+                "y": 265
+              },
+              {
+                "x": 244,
+                "y": 269
+              },
+              {
+                "x": 242,
+                "y": 286
+              },
+              {
+                "x": 201,
+                "y": 282
+              }
+            ]
+          },
+          "description": "SUPPORT"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 250,
+                "y": 269
+              },
+              {
+                "x": 269,
+                "y": 271
+              },
+              {
+                "x": 267,
+                "y": 288
+              },
+              {
+                "x": 249,
+                "y": 286
+              }
+            ]
+          },
+          "description": "BILL"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 277,
+                "y": 272
+              },
+              {
+                "x": 306,
+                "y": 275
+              },
+              {
+                "x": 304,
+                "y": 291
+              },
+              {
+                "x": 276,
+                "y": 289
+              }
+            ]
+          },
+          "description": "RIGHTS"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 209,
+                "y": 286
+              },
+              {
+                "x": 300,
+                "y": 286
+              },
+              {
+                "x": 300,
+                "y": 337
+              },
+              {
+                "x": 209,
+                "y": 337
+              }
+            ]
+          },
+          "description": "LABOR"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 443,
+                "y": 277
+              },
+              {
+                "x": 479,
+                "y": 277
+              },
+              {
+                "x": 479,
+                "y": 290
+              },
+              {
+                "x": 443,
+                "y": 290
+              }
+            ]
+          },
+          "description": "UNITED"
+        }
+      ]
+    }
+  ]
+}

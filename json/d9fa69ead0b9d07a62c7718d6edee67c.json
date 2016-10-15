@@ -1,0 +1,175 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "sketch",
+          "mid": "/m/07glzq",
+          "score": 0.70609164
+        },
+        {
+          "description": "drawing",
+          "mid": "/m/02csf",
+          "score": 0.63035339
+        },
+        {
+          "description": "relief",
+          "mid": "/m/02nnps",
+          "score": 0.55964422
+        },
+        {
+          "description": "pattern",
+          "mid": "/m/0hwky",
+          "score": 0.54047471
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "textAnnotations": [
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 185,
+                "y": 408
+              },
+              {
+                "x": 329,
+                "y": 408
+              },
+              {
+                "x": 329,
+                "y": 423
+              },
+              {
+                "x": 185,
+                "y": 423
+              }
+            ]
+          },
+          "description": "e casea de pool on\n",
+          "locale": "en"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 185,
+                "y": 408
+              },
+              {
+                "x": 190,
+                "y": 408
+              },
+              {
+                "x": 190,
+                "y": 423
+              },
+              {
+                "x": 185,
+                "y": 423
+              }
+            ]
+          },
+          "description": "e"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 196,
+                "y": 408
+              },
+              {
+                "x": 234,
+                "y": 408
+              },
+              {
+                "x": 234,
+                "y": 423
+              },
+              {
+                "x": 196,
+                "y": 423
+              }
+            ]
+          },
+          "description": "casea"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 237,
+                "y": 408
+              },
+              {
+                "x": 254,
+                "y": 408
+              },
+              {
+                "x": 254,
+                "y": 423
+              },
+              {
+                "x": 237,
+                "y": 423
+              }
+            ]
+          },
+          "description": "de"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 273,
+                "y": 408
+              },
+              {
+                "x": 306,
+                "y": 408
+              },
+              {
+                "x": 306,
+                "y": 423
+              },
+              {
+                "x": 273,
+                "y": 423
+              }
+            ]
+          },
+          "description": "pool"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 311,
+                "y": 408
+              },
+              {
+                "x": 329,
+                "y": 408
+              },
+              {
+                "x": 329,
+                "y": 423
+              },
+              {
+                "x": 311,
+                "y": 423
+              }
+            ]
+          },
+          "description": "on"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,226 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "text",
+          "mid": "/m/07s6nbt",
+          "score": 0.92240775
+        },
+        {
+          "description": "modern art",
+          "mid": "/m/015r61",
+          "score": 0.83555335
+        },
+        {
+          "description": "painting",
+          "mid": "/m/05qdh",
+          "score": 0.79400587
+        },
+        {
+          "description": "picture frame",
+          "mid": "/m/06z37_",
+          "score": 0.56370687
+        },
+        {
+          "description": "sketch",
+          "mid": "/m/07glzq",
+          "score": 0.53260517
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "textAnnotations": [
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 19,
+                "y": 50
+              },
+              {
+                "x": 47,
+                "y": 50
+              },
+              {
+                "x": 47,
+                "y": 288
+              },
+              {
+                "x": 19,
+                "y": 288
+              }
+            ]
+          },
+          "description": "J. PET CHER SPOONER,\nPORTRAITS and LANDSCAPES\n",
+          "locale": "en"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 21,
+                "y": 248
+              },
+              {
+                "x": 21,
+                "y": 240
+              },
+              {
+                "x": 30,
+                "y": 240
+              },
+              {
+                "x": 30,
+                "y": 248
+              }
+            ]
+          },
+          "description": "J."
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 21,
+                "y": 227
+              },
+              {
+                "x": 21,
+                "y": 205
+              },
+              {
+                "x": 30,
+                "y": 205
+              },
+              {
+                "x": 30,
+                "y": 227
+              }
+            ]
+          },
+          "description": "PET"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 20,
+                "y": 201
+              },
+              {
+                "x": 20,
+                "y": 163
+              },
+              {
+                "x": 29,
+                "y": 163
+              },
+              {
+                "x": 29,
+                "y": 201
+              }
+            ]
+          },
+          "description": "CHER"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 20,
+                "y": 154
+              },
+              {
+                "x": 19,
+                "y": 78
+              },
+              {
+                "x": 28,
+                "y": 78
+              },
+              {
+                "x": 29,
+                "y": 154
+              }
+            ]
+          },
+          "description": "SPOONER,"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 32,
+                "y": 289
+              },
+              {
+                "x": 31,
+                "y": 193
+              },
+              {
+                "x": 46,
+                "y": 193
+              },
+              {
+                "x": 47,
+                "y": 289
+              }
+            ]
+          },
+          "description": "PORTRAITS"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 31,
+                "y": 187
+              },
+              {
+                "x": 31,
+                "y": 162
+              },
+              {
+                "x": 46,
+                "y": 162
+              },
+              {
+                "x": 46,
+                "y": 187
+              }
+            ]
+          },
+          "description": "and"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 31,
+                "y": 154
+              },
+              {
+                "x": 30,
+                "y": 51
+              },
+              {
+                "x": 45,
+                "y": 51
+              },
+              {
+                "x": 46,
+                "y": 154
+              }
+            ]
+          },
+          "description": "LANDSCAPES"
+        }
+      ]
+    }
+  ]
+}

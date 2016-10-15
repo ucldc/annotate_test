@@ -1,0 +1,88 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "house",
+          "mid": "/m/03jm5",
+          "score": 0.92733091
+        },
+        {
+          "description": "property",
+          "mid": "/m/05wrt",
+          "score": 0.89877886
+        },
+        {
+          "description": "home",
+          "mid": "/m/01l0mw",
+          "score": 0.87107885
+        },
+        {
+          "description": "residential area",
+          "mid": "/m/02nfxt",
+          "score": 0.86880368
+        },
+        {
+          "description": "building",
+          "mid": "/m/0cgh4",
+          "score": 0.83668917
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "violence": "VERY_UNLIKELY"
+      },
+      "textAnnotations": [
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 97,
+                "y": 288
+              },
+              {
+                "x": 117,
+                "y": 288
+              },
+              {
+                "x": 117,
+                "y": 306
+              },
+              {
+                "x": 97,
+                "y": 306
+              }
+            ]
+          },
+          "description": "TT\n",
+          "locale": "gd"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 98,
+                "y": 288
+              },
+              {
+                "x": 117,
+                "y": 290
+              },
+              {
+                "x": 116,
+                "y": 306
+              },
+              {
+                "x": 97,
+                "y": 304
+              }
+            ]
+          },
+          "description": "TT"
+        }
+      ]
+    }
+  ]
+}

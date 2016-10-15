@@ -1,0 +1,29 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "people",
+          "mid": "/m/09g5pq",
+          "score": 0.93173528
+        },
+        {
+          "description": "photograph",
+          "mid": "/m/068jd",
+          "score": 0.92682636
+        },
+        {
+          "description": "family",
+          "mid": "/m/09dhj",
+          "score": 0.55613863
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      }
+    }
+  ]
+}

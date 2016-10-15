@@ -1,0 +1,203 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "photograph",
+          "mid": "/m/068jd",
+          "score": 0.9277451
+        },
+        {
+          "description": "text",
+          "mid": "/m/07s6nbt",
+          "score": 0.92445433
+        },
+        {
+          "description": "image",
+          "mid": "/m/0jg24",
+          "score": 0.902244
+        },
+        {
+          "description": "painting",
+          "mid": "/m/05qdh",
+          "score": 0.77282828
+        },
+        {
+          "description": "modern art",
+          "mid": "/m/015r61",
+          "score": 0.737439
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "medical": "UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "violence": "VERY_UNLIKELY"
+      },
+      "textAnnotations": [
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 166,
+                "y": 431
+              },
+              {
+                "x": 471,
+                "y": 431
+              },
+              {
+                "x": 471,
+                "y": 449
+              },
+              {
+                "x": 166,
+                "y": 449
+              }
+            ]
+          },
+          "description": "Santa Monica Public Library lmage Archives\n",
+          "locale": "en"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 166,
+                "y": 431
+              },
+              {
+                "x": 202,
+                "y": 431
+              },
+              {
+                "x": 202,
+                "y": 449
+              },
+              {
+                "x": 166,
+                "y": 449
+              }
+            ]
+          },
+          "description": "Santa"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 208,
+                "y": 431
+              },
+              {
+                "x": 256,
+                "y": 431
+              },
+              {
+                "x": 256,
+                "y": 449
+              },
+              {
+                "x": 208,
+                "y": 449
+              }
+            ]
+          },
+          "description": "Monica"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 264,
+                "y": 431
+              },
+              {
+                "x": 304,
+                "y": 431
+              },
+              {
+                "x": 304,
+                "y": 449
+              },
+              {
+                "x": 264,
+                "y": 449
+              }
+            ]
+          },
+          "description": "Public"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 311,
+                "y": 431
+              },
+              {
+                "x": 356,
+                "y": 431
+              },
+              {
+                "x": 356,
+                "y": 449
+              },
+              {
+                "x": 311,
+                "y": 449
+              }
+            ]
+          },
+          "description": "Library"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 362,
+                "y": 431
+              },
+              {
+                "x": 404,
+                "y": 431
+              },
+              {
+                "x": 404,
+                "y": 449
+              },
+              {
+                "x": 362,
+                "y": 449
+              }
+            ]
+          },
+          "description": "lmage"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 412,
+                "y": 431
+              },
+              {
+                "x": 471,
+                "y": 431
+              },
+              {
+                "x": 471,
+                "y": 449
+              },
+              {
+                "x": 412,
+                "y": 449
+              }
+            ]
+          },
+          "description": "Archives"
+        }
+      ]
+    }
+  ]
+}

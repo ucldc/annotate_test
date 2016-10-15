@@ -1,0 +1,108 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "person",
+          "mid": "/m/01g317",
+          "score": 0.9035
+        },
+        {
+          "description": "people",
+          "mid": "/m/09g5pq",
+          "score": 0.87661272
+        },
+        {
+          "description": "troop",
+          "mid": "/m/01bq8v",
+          "score": 0.85856539
+        },
+        {
+          "description": "militia",
+          "mid": "/m/055sg",
+          "score": 0.69457704
+        },
+        {
+          "description": "soldier",
+          "mid": "/m/099md",
+          "score": 0.65236753
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "textAnnotations": [
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 12
+              },
+              {
+                "x": 81
+              },
+              {
+                "x": 81,
+                "y": 15
+              },
+              {
+                "x": 12,
+                "y": 15
+              }
+            ]
+          },
+          "description": "REM ESTAT\n",
+          "locale": "ca"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 12,
+                "y": 3
+              },
+              {
+                "x": 28,
+                "y": 3
+              },
+              {
+                "x": 28,
+                "y": 15
+              },
+              {
+                "x": 12,
+                "y": 15
+              }
+            ]
+          },
+          "description": "REM"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 57
+              },
+              {
+                "x": 81,
+                "y": 3
+              },
+              {
+                "x": 79,
+                "y": 15
+              },
+              {
+                "x": 55,
+                "y": 12
+              }
+            ]
+          },
+          "description": "ESTAT"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "person",
+          "mid": "/m/01g317",
+          "score": 0.89872742
+        },
+        {
+          "description": "human positions",
+          "mid": "/m/01m0lg",
+          "score": 0.82182771
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      }
+    }
+  ]
+}

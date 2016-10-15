@@ -1,0 +1,180 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "black and white",
+          "mid": "/m/01g6gs",
+          "score": 0.93324429
+        },
+        {
+          "description": "landmark",
+          "mid": "/m/05_5t0l",
+          "score": 0.85195434
+        },
+        {
+          "description": "building",
+          "mid": "/m/0cgh4",
+          "score": 0.81765157
+        },
+        {
+          "description": "monochrome photography",
+          "mid": "/m/03d49p1",
+          "score": 0.79896295
+        },
+        {
+          "description": "monochrome",
+          "mid": "/m/01mwkf",
+          "score": 0.75606227
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "violence": "VERY_UNLIKELY"
+      },
+      "textAnnotations": [
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 19,
+                "y": 365
+              },
+              {
+                "x": 103,
+                "y": 365
+              },
+              {
+                "x": 103,
+                "y": 373
+              },
+              {
+                "x": 19,
+                "y": 373
+              }
+            ]
+          },
+          "description": "BRITTON d REY & F\n",
+          "locale": "es"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 19,
+                "y": 365
+              },
+              {
+                "x": 51,
+                "y": 365
+              },
+              {
+                "x": 51,
+                "y": 373
+              },
+              {
+                "x": 19,
+                "y": 373
+              }
+            ]
+          },
+          "description": "BRITTON"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 55,
+                "y": 365
+              },
+              {
+                "x": 59,
+                "y": 365
+              },
+              {
+                "x": 59,
+                "y": 373
+              },
+              {
+                "x": 55,
+                "y": 373
+              }
+            ]
+          },
+          "description": "d"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 65,
+                "y": 365
+              },
+              {
+                "x": 81,
+                "y": 365
+              },
+              {
+                "x": 81,
+                "y": 373
+              },
+              {
+                "x": 65,
+                "y": 373
+              }
+            ]
+          },
+          "description": "REY"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 85,
+                "y": 365
+              },
+              {
+                "x": 92,
+                "y": 365
+              },
+              {
+                "x": 92,
+                "y": 373
+              },
+              {
+                "x": 85,
+                "y": 373
+              }
+            ]
+          },
+          "description": "&"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 99,
+                "y": 365
+              },
+              {
+                "x": 103,
+                "y": 365
+              },
+              {
+                "x": 103,
+                "y": 373
+              },
+              {
+                "x": 99,
+                "y": 373
+              }
+            ]
+          },
+          "description": "F"
+        }
+      ]
+    }
+  ]
+}

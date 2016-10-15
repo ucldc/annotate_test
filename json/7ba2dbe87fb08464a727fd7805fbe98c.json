@@ -1,0 +1,249 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "black and white",
+          "mid": "/m/01g6gs",
+          "score": 0.92494625
+        },
+        {
+          "description": "image",
+          "mid": "/m/0jg24",
+          "score": 0.90321034
+        },
+        {
+          "description": "vehicle",
+          "mid": "/m/07yv9",
+          "score": 0.87204212
+        },
+        {
+          "description": "boat",
+          "mid": "/m/019jd",
+          "score": 0.82888317
+        },
+        {
+          "description": "monochrome photography",
+          "mid": "/m/03d49p1",
+          "score": 0.73090738
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "medical": "UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "textAnnotations": [
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 166,
+                "y": 268
+              },
+              {
+                "x": 473,
+                "y": 268
+              },
+              {
+                "x": 473,
+                "y": 448
+              },
+              {
+                "x": 166,
+                "y": 448
+              }
+            ]
+          },
+          "description": "SANTA MONCAURE\nSanta Monica Public Library lmage Archives\n",
+          "locale": "en"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 252,
+                "y": 278
+              },
+              {
+                "x": 270,
+                "y": 275
+              },
+              {
+                "x": 271,
+                "y": 285
+              },
+              {
+                "x": 254,
+                "y": 288
+              }
+            ]
+          },
+          "description": "SANTA"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 275,
+                "y": 274
+              },
+              {
+                "x": 307,
+                "y": 268
+              },
+              {
+                "x": 309,
+                "y": 278
+              },
+              {
+                "x": 277,
+                "y": 284
+              }
+            ]
+          },
+          "description": "MONCAURE"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 166,
+                "y": 432
+              },
+              {
+                "x": 203,
+                "y": 432
+              },
+              {
+                "x": 203,
+                "y": 448
+              },
+              {
+                "x": 166,
+                "y": 448
+              }
+            ]
+          },
+          "description": "Santa"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 209,
+                "y": 432
+              },
+              {
+                "x": 257,
+                "y": 432
+              },
+              {
+                "x": 257,
+                "y": 448
+              },
+              {
+                "x": 209,
+                "y": 448
+              }
+            ]
+          },
+          "description": "Monica"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 264,
+                "y": 432
+              },
+              {
+                "x": 306,
+                "y": 432
+              },
+              {
+                "x": 306,
+                "y": 448
+              },
+              {
+                "x": 264,
+                "y": 448
+              }
+            ]
+          },
+          "description": "Public"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 312,
+                "y": 432
+              },
+              {
+                "x": 357,
+                "y": 432
+              },
+              {
+                "x": 357,
+                "y": 448
+              },
+              {
+                "x": 312,
+                "y": 448
+              }
+            ]
+          },
+          "description": "Library"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 363,
+                "y": 432
+              },
+              {
+                "x": 404,
+                "y": 432
+              },
+              {
+                "x": 404,
+                "y": 448
+              },
+              {
+                "x": 363,
+                "y": 448
+              }
+            ]
+          },
+          "description": "lmage"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 412,
+                "y": 432
+              },
+              {
+                "x": 473,
+                "y": 432
+              },
+              {
+                "x": 473,
+                "y": 448
+              },
+              {
+                "x": 412,
+                "y": 448
+              }
+            ]
+          },
+          "description": "Archives"
+        }
+      ]
+    }
+  ]
+}

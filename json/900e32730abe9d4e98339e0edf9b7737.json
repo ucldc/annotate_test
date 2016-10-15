@@ -1,0 +1,39 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "black and white",
+          "mid": "/m/01g6gs",
+          "score": 0.93174225
+        },
+        {
+          "description": "people",
+          "mid": "/m/09g5pq",
+          "score": 0.90466261
+        },
+        {
+          "description": "human positions",
+          "mid": "/m/01m0lg",
+          "score": 0.8808437
+        },
+        {
+          "description": "sitting",
+          "mid": "/m/015c4z",
+          "score": 0.87791061
+        },
+        {
+          "description": "monochrome photography",
+          "mid": "/m/03d49p1",
+          "score": 0.78894061
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      }
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "text",
+          "mid": "/m/07s6nbt",
+          "score": 0.90377587
+        },
+        {
+          "description": "document",
+          "mid": "/m/015bv3",
+          "score": 0.62685329
+        },
+        {
+          "description": "line",
+          "mid": "/m/03scnj",
+          "score": 0.54621762
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "medical": "UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "violence": "VERY_UNLIKELY"
+      }
+    }
+  ]
+}

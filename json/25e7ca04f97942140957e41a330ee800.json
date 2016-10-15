@@ -1,0 +1,331 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "photograph",
+          "mid": "/m/068jd",
+          "score": 0.92887276
+        },
+        {
+          "description": "black and white",
+          "mid": "/m/01g6gs",
+          "score": 0.91347259
+        },
+        {
+          "description": "monochrome photography",
+          "mid": "/m/03d49p1",
+          "score": 0.62678236
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "violence": "POSSIBLE"
+      },
+      "textAnnotations": [
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 38,
+                "y": 461
+              },
+              {
+                "x": 246,
+                "y": 461
+              },
+              {
+                "x": 246,
+                "y": 477
+              },
+              {
+                "x": 38,
+                "y": 477
+              }
+            ]
+          },
+          "description": "@v ZE,它ALF.\"y/Cc/ ib\n",
+          "locale": "lb"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 38,
+                "y": 478
+              },
+              {
+                "x": 38,
+                "y": 472
+              },
+              {
+                "x": 62,
+                "y": 471
+              },
+              {
+                "x": 62,
+                "y": 477
+              }
+            ]
+          },
+          "description": "@v"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 73,
+                "y": 477
+              },
+              {
+                "x": 73,
+                "y": 463
+              },
+              {
+                "x": 89,
+                "y": 463
+              },
+              {
+                "x": 89,
+                "y": 477
+              }
+            ]
+          },
+          "description": "ZE"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 90,
+                "y": 477
+              },
+              {
+                "x": 90,
+                "y": 467
+              },
+              {
+                "x": 96,
+                "y": 467
+              },
+              {
+                "x": 96,
+                "y": 477
+              }
+            ]
+          },
+          "description": ","
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 98,
+                "y": 478
+              },
+              {
+                "x": 98,
+                "y": 470
+              },
+              {
+                "x": 111,
+                "y": 470
+              },
+              {
+                "x": 111,
+                "y": 478
+              }
+            ]
+          },
+          "description": "它"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 112,
+                "y": 478
+              },
+              {
+                "x": 112,
+                "y": 463
+              },
+              {
+                "x": 141,
+                "y": 462
+              },
+              {
+                "x": 141,
+                "y": 477
+              }
+            ]
+          },
+          "description": "ALF"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 142,
+                "y": 475
+              },
+              {
+                "x": 142,
+                "y": 463
+              },
+              {
+                "x": 155,
+                "y": 463
+              },
+              {
+                "x": 155,
+                "y": 475
+              }
+            ]
+          },
+          "description": "."
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 156,
+                "y": 474
+              },
+              {
+                "x": 156,
+                "y": 462
+              },
+              {
+                "x": 168,
+                "y": 462
+              },
+              {
+                "x": 168,
+                "y": 474
+              }
+            ]
+          },
+          "description": "\""
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 169,
+                "y": 474
+              },
+              {
+                "x": 169,
+                "y": 464
+              },
+              {
+                "x": 179,
+                "y": 464
+              },
+              {
+                "x": 179,
+                "y": 474
+              }
+            ]
+          },
+          "description": "y"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 180,
+                "y": 472
+              },
+              {
+                "x": 180,
+                "y": 462
+              },
+              {
+                "x": 189,
+                "y": 462
+              },
+              {
+                "x": 189,
+                "y": 472
+              }
+            ]
+          },
+          "description": "/"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 190,
+                "y": 476
+              },
+              {
+                "x": 190,
+                "y": 466
+              },
+              {
+                "x": 211,
+                "y": 466
+              },
+              {
+                "x": 211,
+                "y": 475
+              }
+            ]
+          },
+          "description": "Cc"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 212,
+                "y": 476
+              },
+              {
+                "x": 212,
+                "y": 466
+              },
+              {
+                "x": 219,
+                "y": 466
+              },
+              {
+                "x": 219,
+                "y": 476
+              }
+            ]
+          },
+          "description": "/"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 229,
+                "y": 474
+              },
+              {
+                "x": 229,
+                "y": 467
+              },
+              {
+                "x": 246,
+                "y": 467
+              },
+              {
+                "x": 246,
+                "y": 474
+              }
+            ]
+          },
+          "description": "ib"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "house",
+          "mid": "/m/03jm5",
+          "score": 0.93887973
+        },
+        {
+          "description": "white",
+          "mid": "/m/083jv",
+          "score": 0.93704718
+        },
+        {
+          "description": "black and white",
+          "mid": "/m/01g6gs",
+          "score": 0.9334532
+        },
+        {
+          "description": "tree",
+          "mid": "/m/07j7r",
+          "score": 0.86989528
+        },
+        {
+          "description": "monochrome photography",
+          "mid": "/m/03d49p1",
+          "score": 0.80190682
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "violence": "VERY_UNLIKELY"
+      }
+    }
+  ]
+}

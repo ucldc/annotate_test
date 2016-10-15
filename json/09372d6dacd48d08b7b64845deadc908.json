@@ -1,0 +1,249 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "white",
+          "mid": "/m/083jv",
+          "score": 0.94591832
+        },
+        {
+          "description": "black",
+          "mid": "/m/019sc",
+          "score": 0.94311178
+        },
+        {
+          "description": "photograph",
+          "mid": "/m/068jd",
+          "score": 0.93233758
+        },
+        {
+          "description": "black and white",
+          "mid": "/m/01g6gs",
+          "score": 0.92355525
+        },
+        {
+          "description": "image",
+          "mid": "/m/0jg24",
+          "score": 0.900101
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "medical": "UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "violence": "VERY_UNLIKELY"
+      },
+      "textAnnotations": [
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 313,
+                "y": 147
+              },
+              {
+                "x": 444,
+                "y": 147
+              },
+              {
+                "x": 444,
+                "y": 364
+              },
+              {
+                "x": 313,
+                "y": 364
+              }
+            ]
+          },
+          "description": "GUESTS IN\nBATHING\nSUITS\nPLEASE\nUSE REAR\nENTRANCE\n",
+          "locale": "en"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 321,
+                "y": 147
+              },
+              {
+                "x": 407,
+                "y": 147
+              },
+              {
+                "x": 407,
+                "y": 176
+              },
+              {
+                "x": 321,
+                "y": 176
+              }
+            ]
+          },
+          "description": "GUESTS"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 420,
+                "y": 147
+              },
+              {
+                "x": 440,
+                "y": 147
+              },
+              {
+                "x": 440,
+                "y": 176
+              },
+              {
+                "x": 420,
+                "y": 176
+              }
+            ]
+          },
+          "description": "IN"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 321,
+                "y": 187
+              },
+              {
+                "x": 443,
+                "y": 187
+              },
+              {
+                "x": 443,
+                "y": 216
+              },
+              {
+                "x": 321,
+                "y": 216
+              }
+            ]
+          },
+          "description": "BATHING"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 331,
+                "y": 227
+              },
+              {
+                "x": 428,
+                "y": 227
+              },
+              {
+                "x": 428,
+                "y": 258
+              },
+              {
+                "x": 331,
+                "y": 258
+              }
+            ]
+          },
+          "description": "SUITS"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 330,
+                "y": 266
+              },
+              {
+                "x": 431,
+                "y": 266
+              },
+              {
+                "x": 431,
+                "y": 298
+              },
+              {
+                "x": 330,
+                "y": 298
+              }
+            ]
+          },
+          "description": "PLEASE"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 313,
+                "y": 306
+              },
+              {
+                "x": 359,
+                "y": 306
+              },
+              {
+                "x": 359,
+                "y": 332
+              },
+              {
+                "x": 313,
+                "y": 332
+              }
+            ]
+          },
+          "description": "USE"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 376,
+                "y": 306
+              },
+              {
+                "x": 444,
+                "y": 306
+              },
+              {
+                "x": 444,
+                "y": 332
+              },
+              {
+                "x": 376,
+                "y": 332
+              }
+            ]
+          },
+          "description": "REAR"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 319,
+                "y": 339
+              },
+              {
+                "x": 438,
+                "y": 339
+              },
+              {
+                "x": 438,
+                "y": 364
+              },
+              {
+                "x": 319,
+                "y": 364
+              }
+            ]
+          },
+          "description": "ENTRANCE"
+        }
+      ]
+    }
+  ]
+}

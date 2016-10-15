@@ -1,0 +1,157 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "text",
+          "mid": "/m/07s6nbt",
+          "score": 0.89181787
+        },
+        {
+          "description": "line",
+          "mid": "/m/03scnj",
+          "score": 0.75220823
+        },
+        {
+          "description": "document",
+          "mid": "/m/015bv3",
+          "score": 0.64023036
+        },
+        {
+          "description": "web page",
+          "mid": "/m/086nh",
+          "score": 0.620868
+        },
+        {
+          "description": "shape",
+          "mid": "/m/016nqd",
+          "score": 0.58925217
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "textAnnotations": [
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 15,
+                "y": 30
+              },
+              {
+                "x": 25,
+                "y": 30
+              },
+              {
+                "x": 25,
+                "y": 84
+              },
+              {
+                "x": 15,
+                "y": 84
+              }
+            ]
+          },
+          "description": "nd ith-li\n",
+          "locale": "en"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 15,
+                "y": 30
+              },
+              {
+                "x": 24,
+                "y": 30
+              },
+              {
+                "x": 24,
+                "y": 41
+              },
+              {
+                "x": 15,
+                "y": 41
+              }
+            ]
+          },
+          "description": "nd"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 15,
+                "y": 51
+              },
+              {
+                "x": 25,
+                "y": 51
+              },
+              {
+                "x": 25,
+                "y": 64
+              },
+              {
+                "x": 15,
+                "y": 64
+              }
+            ]
+          },
+          "description": "ith"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 15,
+                "y": 65
+              },
+              {
+                "x": 19,
+                "y": 65
+              },
+              {
+                "x": 19,
+                "y": 67
+              },
+              {
+                "x": 15,
+                "y": 67
+              }
+            ]
+          },
+          "description": "-"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 15,
+                "y": 68
+              },
+              {
+                "x": 25,
+                "y": 68
+              },
+              {
+                "x": 25,
+                "y": 84
+              },
+              {
+                "x": 15,
+                "y": 84
+              }
+            ]
+          },
+          "description": "li"
+        }
+      ]
+    }
+  ]
+}

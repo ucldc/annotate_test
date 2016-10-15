@@ -1,0 +1,1131 @@
+{
+  "responses": [
+    {
+      "faceAnnotations": [
+        {
+          "angerLikelihood": "VERY_UNLIKELY",
+          "blurredLikelihood": "VERY_UNLIKELY",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 112,
+                "y": 119
+              },
+              {
+                "x": 251,
+                "y": 119
+              },
+              {
+                "x": 251,
+                "y": 282
+              },
+              {
+                "x": 112,
+                "y": 282
+              }
+            ]
+          },
+          "detectionConfidence": 0.53266615,
+          "fdBoundingPoly": {
+            "vertices": [
+              {
+                "x": 127,
+                "y": 163
+              },
+              {
+                "x": 227,
+                "y": 163
+              },
+              {
+                "x": 227,
+                "y": 263
+              },
+              {
+                "x": 127,
+                "y": 263
+              }
+            ]
+          },
+          "headwearLikelihood": "VERY_UNLIKELY",
+          "joyLikelihood": "VERY_UNLIKELY",
+          "landmarkingConfidence": 0.50637382,
+          "landmarks": [
+            {
+              "position": {
+                "x": 155.20686,
+                "y": 194.64389,
+                "z": -0.0010902936
+              },
+              "type": "LEFT_EYE"
+            },
+            {
+              "position": {
+                "x": 197.53857,
+                "y": 193.39076,
+                "z": -6.9665561
+              },
+              "type": "RIGHT_EYE"
+            },
+            {
+              "position": {
+                "x": 141.34293,
+                "y": 185.0524,
+                "z": 5.8646865
+              },
+              "type": "LEFT_OF_LEFT_EYEBROW"
+            },
+            {
+              "position": {
+                "x": 163.99286,
+                "y": 185.13647,
+                "z": -10.210792
+              },
+              "type": "RIGHT_OF_LEFT_EYEBROW"
+            },
+            {
+              "position": {
+                "x": 184.16916,
+                "y": 184.8754,
+                "z": -13.54199
+              },
+              "type": "LEFT_OF_RIGHT_EYEBROW"
+            },
+            {
+              "position": {
+                "x": 210.77396,
+                "y": 184.26132,
+                "z": -5.6458936
+              },
+              "type": "RIGHT_OF_RIGHT_EYEBROW"
+            },
+            {
+              "position": {
+                "x": 173.4463,
+                "y": 194.07407,
+                "z": -12.164329
+              },
+              "type": "MIDPOINT_BETWEEN_EYES"
+            },
+            {
+              "position": {
+                "x": 172.72446,
+                "y": 218.38806,
+                "z": -23.46088
+              },
+              "type": "NOSE_TIP"
+            },
+            {
+              "position": {
+                "x": 174.42122,
+                "y": 235.46901,
+                "z": -13.093952
+              },
+              "type": "UPPER_LIP"
+            },
+            {
+              "position": {
+                "x": 174.95566,
+                "y": 246.4915,
+                "z": -9.7947273
+              },
+              "type": "LOWER_LIP"
+            },
+            {
+              "position": {
+                "x": 160.12674,
+                "y": 239.63002,
+                "z": 0.87289441
+              },
+              "type": "MOUTH_LEFT"
+            },
+            {
+              "position": {
+                "x": 193.33754,
+                "y": 238.16235,
+                "z": -4.3546276
+              },
+              "type": "MOUTH_RIGHT"
+            },
+            {
+              "position": {
+                "x": 174.81271,
+                "y": 240.26437,
+                "z": -9.8622713
+              },
+              "type": "MOUTH_CENTER"
+            },
+            {
+              "position": {
+                "x": 187.16489,
+                "y": 220.58868,
+                "z": -9.1841316
+              },
+              "type": "NOSE_BOTTOM_RIGHT"
+            },
+            {
+              "position": {
+                "x": 163.92976,
+                "y": 221.13754,
+                "z": -5.4780498
+              },
+              "type": "NOSE_BOTTOM_LEFT"
+            },
+            {
+              "position": {
+                "x": 173.79463,
+                "y": 225.18326,
+                "z": -13.683941
+              },
+              "type": "NOSE_BOTTOM_CENTER"
+            },
+            {
+              "position": {
+                "x": 154.31725,
+                "y": 192.23618,
+                "z": -2.856714
+              },
+              "type": "LEFT_EYE_TOP_BOUNDARY"
+            },
+            {
+              "position": {
+                "x": 163.09302,
+                "y": 195.30414,
+                "z": -1.1307341
+              },
+              "type": "LEFT_EYE_RIGHT_CORNER"
+            },
+            {
+              "position": {
+                "x": 154.73706,
+                "y": 198.04013,
+                "z": -0.18392454
+              },
+              "type": "LEFT_EYE_BOTTOM_BOUNDARY"
+            },
+            {
+              "position": {
+                "x": 147.08496,
+                "y": 195.42555,
+                "z": 5.2977829
+              },
+              "type": "LEFT_EYE_LEFT_CORNER"
+            },
+            {
+              "position": {
+                "x": 154.01372,
+                "y": 195.1214,
+                "z": -0.88087469
+              },
+              "type": "LEFT_EYE_PUPIL"
+            },
+            {
+              "position": {
+                "x": 195.88831,
+                "y": 191.71837,
+                "z": -9.7270384
+              },
+              "type": "RIGHT_EYE_TOP_BOUNDARY"
+            },
+            {
+              "position": {
+                "x": 205.99191,
+                "y": 194.36491,
+                "z": -4.2510695
+              },
+              "type": "RIGHT_EYE_RIGHT_CORNER"
+            },
+            {
+              "position": {
+                "x": 197.15331,
+                "y": 197.03058,
+                "z": -7.0794082
+              },
+              "type": "RIGHT_EYE_BOTTOM_BOUNDARY"
+            },
+            {
+              "position": {
+                "x": 187.95454,
+                "y": 195.09436,
+                "z": -5.2722273
+              },
+              "type": "RIGHT_EYE_LEFT_CORNER"
+            },
+            {
+              "position": {
+                "x": 196.65396,
+                "y": 194.57748,
+                "z": -7.9866319
+              },
+              "type": "RIGHT_EYE_PUPIL"
+            },
+            {
+              "position": {
+                "x": 151.96767,
+                "y": 180.13713,
+                "z": -5.1086836
+              },
+              "type": "LEFT_EYEBROW_UPPER_MIDPOINT"
+            },
+            {
+              "position": {
+                "x": 197.04219,
+                "y": 179.59042,
+                "z": -12.551776
+              },
+              "type": "RIGHT_EYEBROW_UPPER_MIDPOINT"
+            },
+            {
+              "position": {
+                "x": 136.99257,
+                "y": 214.04843,
+                "z": 56.684303
+              },
+              "type": "LEFT_EAR_TRAGION"
+            },
+            {
+              "position": {
+                "x": 231.56725,
+                "y": 212.88597,
+                "z": 40.770908
+              },
+              "type": "RIGHT_EAR_TRAGION"
+            },
+            {
+              "position": {
+                "x": 173.76886,
+                "y": 184.58304,
+                "z": -13.466246
+              },
+              "type": "FOREHEAD_GLABELLA"
+            },
+            {
+              "position": {
+                "x": 176.53973,
+                "y": 266.47354,
+                "z": -3.1143367
+              },
+              "type": "CHIN_GNATHION"
+            },
+            {
+              "position": {
+                "x": 139.51015,
+                "y": 241.58948,
+                "z": 39.760731
+              },
+              "type": "CHIN_LEFT_GONION"
+            },
+            {
+              "position": {
+                "x": 224.78485,
+                "y": 240.5513,
+                "z": 25.63913
+              },
+              "type": "CHIN_RIGHT_GONION"
+            }
+          ],
+          "panAngle": -9.406,
+          "rollAngle": -1.0336778,
+          "sorrowLikelihood": "VERY_UNLIKELY",
+          "surpriseLikelihood": "VERY_UNLIKELY",
+          "tiltAngle": -2.0145605,
+          "underExposedLikelihood": "VERY_UNLIKELY"
+        }
+      ],
+      "labelAnnotations": [
+        {
+          "description": "text",
+          "mid": "/m/07s6nbt",
+          "score": 0.90406865
+        },
+        {
+          "description": "cartoon",
+          "mid": "/m/0215n",
+          "score": 0.82918513
+        },
+        {
+          "description": "sketch",
+          "mid": "/m/07glzq",
+          "score": 0.58279645
+        },
+        {
+          "description": "pattern",
+          "mid": "/m/06g1w2",
+          "score": 0.57579875
+        },
+        {
+          "description": "pattern",
+          "mid": "/m/0hwky",
+          "score": 0.56470203
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "textAnnotations": [
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 7,
+                "y": 5
+              },
+              {
+                "x": 367,
+                "y": 5
+              },
+              {
+                "x": 367,
+                "y": 465
+              },
+              {
+                "x": 7,
+                "y": 465
+              }
+            ]
+          },
+          "description": "A 100 Per Cent Man, Who Conducts\nA Store of ficient Service\nSETS THE PACE\nIN PRoSPERITIES RACE.\nTHE\nHIGH\nPYRAMID\nCES\nof Business\nBANG\nINTEGRITY\nAND ITS\nESULTS\nUNCTURED\nF. TOMASINI\n",
+          "locale": "en"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 7,
+                "y": 5
+              },
+              {
+                "x": 19,
+                "y": 5
+              },
+              {
+                "x": 19,
+                "y": 22
+              },
+              {
+                "x": 7,
+                "y": 22
+              }
+            ]
+          },
+          "description": "A"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 22,
+                "y": 5
+              },
+              {
+                "x": 46,
+                "y": 5
+              },
+              {
+                "x": 46,
+                "y": 22
+              },
+              {
+                "x": 22,
+                "y": 22
+              }
+            ]
+          },
+          "description": "100"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 50,
+                "y": 5
+              },
+              {
+                "x": 77,
+                "y": 5
+              },
+              {
+                "x": 77,
+                "y": 22
+              },
+              {
+                "x": 50,
+                "y": 22
+              }
+            ]
+          },
+          "description": "Per"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 84,
+                "y": 5
+              },
+              {
+                "x": 115,
+                "y": 5
+              },
+              {
+                "x": 115,
+                "y": 22
+              },
+              {
+                "x": 84,
+                "y": 22
+              }
+            ]
+          },
+          "description": "Cent"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 124,
+                "y": 5
+              },
+              {
+                "x": 155,
+                "y": 5
+              },
+              {
+                "x": 155,
+                "y": 22
+              },
+              {
+                "x": 124,
+                "y": 22
+              }
+            ]
+          },
+          "description": "Man,"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 160,
+                "y": 5
+              },
+              {
+                "x": 192,
+                "y": 5
+              },
+              {
+                "x": 192,
+                "y": 22
+              },
+              {
+                "x": 160,
+                "y": 22
+              }
+            ]
+          },
+          "description": "Who"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 199,
+                "y": 5
+              },
+              {
+                "x": 269,
+                "y": 5
+              },
+              {
+                "x": 269,
+                "y": 22
+              },
+              {
+                "x": 199,
+                "y": 22
+              }
+            ]
+          },
+          "description": "Conducts"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 163,
+                "y": 22
+              },
+              {
+                "x": 174,
+                "y": 22
+              },
+              {
+                "x": 174,
+                "y": 39
+              },
+              {
+                "x": 163,
+                "y": 39
+              }
+            ]
+          },
+          "description": "A"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 179,
+                "y": 22
+              },
+              {
+                "x": 217,
+                "y": 22
+              },
+              {
+                "x": 217,
+                "y": 39
+              },
+              {
+                "x": 179,
+                "y": 39
+              }
+            ]
+          },
+          "description": "Store"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 224,
+                "y": 22
+              },
+              {
+                "x": 240,
+                "y": 22
+              },
+              {
+                "x": 240,
+                "y": 39
+              },
+              {
+                "x": 224,
+                "y": 39
+              }
+            ]
+          },
+          "description": "of"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 263,
+                "y": 22
+              },
+              {
+                "x": 308,
+                "y": 22
+              },
+              {
+                "x": 308,
+                "y": 36
+              },
+              {
+                "x": 263,
+                "y": 36
+              }
+            ]
+          },
+          "description": "ficient"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 314,
+                "y": 22
+              },
+              {
+                "x": 367,
+                "y": 22
+              },
+              {
+                "x": 367,
+                "y": 36
+              },
+              {
+                "x": 314,
+                "y": 36
+              }
+            ]
+          },
+          "description": "Service"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 73,
+                "y": 55
+              },
+              {
+                "x": 113,
+                "y": 57
+              },
+              {
+                "x": 112,
+                "y": 78
+              },
+              {
+                "x": 72,
+                "y": 76
+              }
+            ]
+          },
+          "description": "SETS"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 117,
+                "y": 57
+              },
+              {
+                "x": 143,
+                "y": 58
+              },
+              {
+                "x": 142,
+                "y": 79
+              },
+              {
+                "x": 116,
+                "y": 78
+              }
+            ]
+          },
+          "description": "THE"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 151,
+                "y": 58
+              },
+              {
+                "x": 194,
+                "y": 60
+              },
+              {
+                "x": 193,
+                "y": 81
+              },
+              {
+                "x": 150,
+                "y": 79
+              }
+            ]
+          },
+          "description": "PACE"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 62,
+                "y": 78
+              },
+              {
+                "x": 72,
+                "y": 78
+              },
+              {
+                "x": 72,
+                "y": 97
+              },
+              {
+                "x": 62,
+                "y": 97
+              }
+            ]
+          },
+          "description": "IN"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 78,
+                "y": 78
+              },
+              {
+                "x": 149,
+                "y": 78
+              },
+              {
+                "x": 149,
+                "y": 97
+              },
+              {
+                "x": 78,
+                "y": 97
+              }
+            ]
+          },
+          "description": "PRoSPERITIES"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 153,
+                "y": 78
+              },
+              {
+                "x": 196,
+                "y": 78
+              },
+              {
+                "x": 196,
+                "y": 97
+              },
+              {
+                "x": 153,
+                "y": 97
+              }
+            ]
+          },
+          "description": "RACE."
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 259,
+                "y": 203
+              },
+              {
+                "x": 286,
+                "y": 205
+              },
+              {
+                "x": 284,
+                "y": 223
+              },
+              {
+                "x": 257,
+                "y": 221
+              }
+            ]
+          },
+          "description": "THE"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 46,
+                "y": 222
+              },
+              {
+                "x": 69,
+                "y": 222
+              },
+              {
+                "x": 69,
+                "y": 233
+              },
+              {
+                "x": 46,
+                "y": 233
+              }
+            ]
+          },
+          "description": "HIGH"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 259,
+                "y": 222
+              },
+              {
+                "x": 306,
+                "y": 222
+              },
+              {
+                "x": 306,
+                "y": 240
+              },
+              {
+                "x": 259,
+                "y": 240
+              }
+            ]
+          },
+          "description": "PYRAMID"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 55,
+                "y": 242
+              },
+              {
+                "x": 72,
+                "y": 237
+              },
+              {
+                "x": 76,
+                "y": 250
+              },
+              {
+                "x": 58,
+                "y": 255
+              }
+            ]
+          },
+          "description": "CES"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 257,
+                "y": 286
+              },
+              {
+                "x": 270,
+                "y": 286
+              },
+              {
+                "x": 270,
+                "y": 309
+              },
+              {
+                "x": 257,
+                "y": 309
+              }
+            ]
+          },
+          "description": "of"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 277,
+                "y": 286
+              },
+              {
+                "x": 327,
+                "y": 286
+              },
+              {
+                "x": 327,
+                "y": 309
+              },
+              {
+                "x": 277,
+                "y": 309
+              }
+            ]
+          },
+          "description": "Business"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 68,
+                "y": 295
+              },
+              {
+                "x": 113,
+                "y": 295
+              },
+              {
+                "x": 113,
+                "y": 318
+              },
+              {
+                "x": 68,
+                "y": 318
+              }
+            ]
+          },
+          "description": "BANG"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 259,
+                "y": 308
+              },
+              {
+                "x": 329,
+                "y": 309
+              },
+              {
+                "x": 329,
+                "y": 326
+              },
+              {
+                "x": 259,
+                "y": 325
+              }
+            ]
+          },
+          "description": "INTEGRITY"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 258,
+                "y": 326
+              },
+              {
+                "x": 275,
+                "y": 326
+              },
+              {
+                "x": 275,
+                "y": 336
+              },
+              {
+                "x": 258,
+                "y": 336
+              }
+            ]
+          },
+          "description": "AND"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 281,
+                "y": 326
+              },
+              {
+                "x": 296,
+                "y": 326
+              },
+              {
+                "x": 296,
+                "y": 336
+              },
+              {
+                "x": 281,
+                "y": 336
+              }
+            ]
+          },
+          "description": "ITS"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 269,
+                "y": 341
+              },
+              {
+                "x": 310,
+                "y": 341
+              },
+              {
+                "x": 310,
+                "y": 354
+              },
+              {
+                "x": 269,
+                "y": 354
+              }
+            ]
+          },
+          "description": "ESULTS"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 84,
+                "y": 381
+              },
+              {
+                "x": 142,
+                "y": 381
+              },
+              {
+                "x": 142,
+                "y": 396
+              },
+              {
+                "x": 84,
+                "y": 396
+              }
+            ]
+          },
+          "description": "UNCTURED"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 157,
+                "y": 453
+              },
+              {
+                "x": 168,
+                "y": 453
+              },
+              {
+                "x": 168,
+                "y": 465
+              },
+              {
+                "x": 157,
+                "y": 465
+              }
+            ]
+          },
+          "description": "F."
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 173,
+                "y": 453
+              },
+              {
+                "x": 226,
+                "y": 453
+              },
+              {
+                "x": 226,
+                "y": 465
+              },
+              {
+                "x": 173,
+                "y": 465
+              }
+            ]
+          },
+          "description": "TOMASINI"
+        }
+      ]
+    }
+  ]
+}

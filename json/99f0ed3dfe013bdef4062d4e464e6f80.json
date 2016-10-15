@@ -1,0 +1,39 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "aerial photography",
+          "mid": "/m/01w5c_",
+          "score": 0.9815414
+        },
+        {
+          "description": "black and white",
+          "mid": "/m/01g6gs",
+          "score": 0.91301304
+        },
+        {
+          "description": "bird's eye view",
+          "mid": "/m/08863x",
+          "score": 0.88730931
+        },
+        {
+          "description": "metropolitan area",
+          "mid": "/m/0j_s4",
+          "score": 0.88219255
+        },
+        {
+          "description": "residential area",
+          "mid": "/m/02nfxt",
+          "score": 0.87081653
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "violence": "VERY_UNLIKELY"
+      }
+    }
+  ]
+}

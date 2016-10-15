@@ -1,0 +1,88 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "black and white",
+          "mid": "/m/01g6gs",
+          "score": 0.92473906
+        },
+        {
+          "description": "baseball positions",
+          "mid": "/m/018kg",
+          "score": 0.91475272
+        },
+        {
+          "description": "monochrome",
+          "mid": "/m/01mwkf",
+          "score": 0.74849641
+        },
+        {
+          "description": "monochrome photography",
+          "mid": "/m/03d49p1",
+          "score": 0.72644442
+        },
+        {
+          "description": "sports",
+          "mid": "/m/06ntj",
+          "score": 0.72607833
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "spoof": "UNLIKELY",
+        "violence": "VERY_UNLIKELY"
+      },
+      "textAnnotations": [
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 23,
+                "y": 68
+              },
+              {
+                "x": 84,
+                "y": 68
+              },
+              {
+                "x": 84,
+                "y": 109
+              },
+              {
+                "x": 23,
+                "y": 109
+              }
+            ]
+          },
+          "description": "3013s\n",
+          "locale": "en"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 78,
+                "y": 68
+              },
+              {
+                "x": 85,
+                "y": 95
+              },
+              {
+                "x": 31,
+                "y": 109
+              },
+              {
+                "x": 24,
+                "y": 82
+              }
+            ]
+          },
+          "description": "3013s"
+        }
+      ]
+    }
+  ]
+}

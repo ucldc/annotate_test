@@ -1,0 +1,88 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "text",
+          "mid": "/m/07s6nbt",
+          "score": 0.90325588
+        },
+        {
+          "description": "line",
+          "mid": "/m/03scnj",
+          "score": 0.60071582
+        },
+        {
+          "description": "drawing",
+          "mid": "/m/02csf",
+          "score": 0.59885907
+        },
+        {
+          "description": "diagram",
+          "mid": "/m/02v0m2",
+          "score": 0.5817979
+        },
+        {
+          "description": "document",
+          "mid": "/m/015bv3",
+          "score": 0.57077116
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "violence": "VERY_UNLIKELY"
+      },
+      "textAnnotations": [
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 6,
+                "y": 221
+              },
+              {
+                "x": 21,
+                "y": 221
+              },
+              {
+                "x": 21,
+                "y": 227
+              },
+              {
+                "x": 6,
+                "y": 227
+              }
+            ]
+          },
+          "description": "03019\n",
+          "locale": "en"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 6,
+                "y": 221
+              },
+              {
+                "x": 21,
+                "y": 222
+              },
+              {
+                "x": 21,
+                "y": 227
+              },
+              {
+                "x": 6,
+                "y": 226
+              }
+            ]
+          },
+          "description": "03019"
+        }
+      ]
+    }
+  ]
+}

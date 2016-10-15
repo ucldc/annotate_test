@@ -1,0 +1,19 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "picture frame",
+          "mid": "/m/06z37_",
+          "score": 0.86184567
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "violence": "VERY_UNLIKELY"
+      }
+    }
+  ]
+}

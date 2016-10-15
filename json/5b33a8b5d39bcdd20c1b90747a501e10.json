@@ -1,0 +1,111 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "white",
+          "mid": "/m/083jv",
+          "score": 0.93789941
+        },
+        {
+          "description": "black and white",
+          "mid": "/m/01g6gs",
+          "score": 0.93323696
+        },
+        {
+          "description": "house",
+          "mid": "/m/03jm5",
+          "score": 0.902915
+        },
+        {
+          "description": "building",
+          "mid": "/m/0cgh4",
+          "score": 0.80591351
+        },
+        {
+          "description": "architecture",
+          "mid": "/m/03nfmq",
+          "score": 0.80399859
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "violence": "VERY_UNLIKELY"
+      },
+      "textAnnotations": [
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 128,
+                "y": 132
+              },
+              {
+                "x": 290,
+                "y": 132
+              },
+              {
+                "x": 290,
+                "y": 349
+              },
+              {
+                "x": 128,
+                "y": 349
+              }
+            ]
+          },
+          "description": "a\nHH\n",
+          "locale": "gd"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 128,
+                "y": 132
+              },
+              {
+                "x": 135,
+                "y": 132
+              },
+              {
+                "x": 135,
+                "y": 136
+              },
+              {
+                "x": 128,
+                "y": 136
+              }
+            ]
+          },
+          "description": "a"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 261,
+                "y": 303
+              },
+              {
+                "x": 290,
+                "y": 303
+              },
+              {
+                "x": 290,
+                "y": 349
+              },
+              {
+                "x": 261,
+                "y": 349
+              }
+            ]
+          },
+          "description": "HH"
+        }
+      ]
+    }
+  ]
+}

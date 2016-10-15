@@ -1,0 +1,34 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "geological phenomenon",
+          "mid": "/m/07sn5gn",
+          "score": 0.8117575
+        },
+        {
+          "description": "construction",
+          "mid": "/m/01jnzj",
+          "score": 0.7250315
+        },
+        {
+          "description": "demolition",
+          "mid": "/m/02zrvn",
+          "score": 0.71854329
+        },
+        {
+          "description": "soil",
+          "mid": "/m/09dv7",
+          "score": 0.65872985
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "violence": "VERY_UNLIKELY"
+      }
+    }
+  ]
+}

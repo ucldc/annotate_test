@@ -1,0 +1,39 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "black and white",
+          "mid": "/m/01g6gs",
+          "score": 0.91812438
+        },
+        {
+          "description": "house",
+          "mid": "/m/03jm5",
+          "score": 0.87812579
+        },
+        {
+          "description": "town",
+          "mid": "/m/0dx1j",
+          "score": 0.80993485
+        },
+        {
+          "description": "building",
+          "mid": "/m/0cgh4",
+          "score": 0.80744654
+        },
+        {
+          "description": "neighbourhood",
+          "mid": "/m/0180xr",
+          "score": 0.77067721
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "violence": "VERY_UNLIKELY"
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "black and white",
+          "mid": "/m/01g6gs",
+          "score": 0.93869281
+        },
+        {
+          "description": "monochrome photography",
+          "mid": "/m/03d49p1",
+          "score": 0.84025514
+        },
+        {
+          "description": "monochrome",
+          "mid": "/m/01mwkf",
+          "score": 0.80383193
+        },
+        {
+          "description": "fountain",
+          "mid": "/m/0220r2",
+          "score": 0.78072125
+        },
+        {
+          "description": "water feature",
+          "mid": "/m/090j23",
+          "score": 0.703945
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      }
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "black and white",
+          "mid": "/m/01g6gs",
+          "score": 0.90794134
+        },
+        {
+          "description": "drawing",
+          "mid": "/m/02csf",
+          "score": 0.73458427
+        },
+        {
+          "description": "sketch",
+          "mid": "/m/07glzq",
+          "score": 0.70730257
+        },
+        {
+          "description": "shape",
+          "mid": "/m/016nqd",
+          "score": 0.58291107
+        },
+        {
+          "description": "monochrome photography",
+          "mid": "/m/03d49p1",
+          "score": 0.57877785
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "violence": "VERY_UNLIKELY"
+      },
+      "textAnnotations": [
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 125,
+                "y": 182
+              },
+              {
+                "x": 140,
+                "y": 182
+              },
+              {
+                "x": 140,
+                "y": 198
+              },
+              {
+                "x": 125,
+                "y": 198
+              }
+            ]
+          },
+          "description": "Q\n",
+          "locale": "en"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 125,
+                "y": 183
+              },
+              {
+                "x": 139,
+                "y": 182
+              },
+              {
+                "x": 140,
+                "y": 197
+              },
+              {
+                "x": 126,
+                "y": 198
+              }
+            ]
+          },
+          "description": "Q"
+        }
+      ]
+    }
+  ]
+}

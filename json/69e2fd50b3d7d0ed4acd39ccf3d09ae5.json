@@ -1,0 +1,88 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "aerial photography",
+          "mid": "/m/01w5c_",
+          "score": 0.97090352
+        },
+        {
+          "description": "metropolitan area",
+          "mid": "/m/0j_s4",
+          "score": 0.95102423
+        },
+        {
+          "description": "black and white",
+          "mid": "/m/01g6gs",
+          "score": 0.92760062
+        },
+        {
+          "description": "metropolis",
+          "mid": "/m/056mk",
+          "score": 0.90349585
+        },
+        {
+          "description": "photography",
+          "mid": "/m/05wkw",
+          "score": 0.87432587
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "violence": "VERY_UNLIKELY"
+      },
+      "textAnnotations": [
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 587,
+                "y": 189
+              },
+              {
+                "x": 614,
+                "y": 189
+              },
+              {
+                "x": 614,
+                "y": 219
+              },
+              {
+                "x": 587,
+                "y": 219
+              }
+            ]
+          },
+          "description": "rg\n",
+          "locale": "uz"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 615,
+                "y": 196
+              },
+              {
+                "x": 607,
+                "y": 219
+              },
+              {
+                "x": 588,
+                "y": 212
+              },
+              {
+                "x": 596,
+                "y": 189
+              }
+            ]
+          },
+          "description": "rg"
+        }
+      ]
+    }
+  ]
+}

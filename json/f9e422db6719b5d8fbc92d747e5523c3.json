@@ -1,0 +1,193 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "monument",
+          "mid": "/m/02ljgl",
+          "score": 0.57975769
+        },
+        {
+          "description": "ancient history",
+          "mid": "/m/0djmp",
+          "score": 0.54657477
+        },
+        {
+          "description": "history",
+          "mid": "/m/03g3w",
+          "score": 0.51546043
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "spoof": "UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "textAnnotations": [
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 166,
+                "y": 432
+              },
+              {
+                "x": 472,
+                "y": 432
+              },
+              {
+                "x": 472,
+                "y": 449
+              },
+              {
+                "x": 166,
+                "y": 449
+              }
+            ]
+          },
+          "description": "Santa Monica Public Library lmage Archives\n",
+          "locale": "en"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 166,
+                "y": 432
+              },
+              {
+                "x": 203,
+                "y": 432
+              },
+              {
+                "x": 203,
+                "y": 449
+              },
+              {
+                "x": 166,
+                "y": 449
+              }
+            ]
+          },
+          "description": "Santa"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 209,
+                "y": 432
+              },
+              {
+                "x": 258,
+                "y": 432
+              },
+              {
+                "x": 258,
+                "y": 449
+              },
+              {
+                "x": 209,
+                "y": 449
+              }
+            ]
+          },
+          "description": "Monica"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 265,
+                "y": 432
+              },
+              {
+                "x": 305,
+                "y": 432
+              },
+              {
+                "x": 305,
+                "y": 449
+              },
+              {
+                "x": 265,
+                "y": 449
+              }
+            ]
+          },
+          "description": "Public"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 312,
+                "y": 432
+              },
+              {
+                "x": 357,
+                "y": 432
+              },
+              {
+                "x": 357,
+                "y": 449
+              },
+              {
+                "x": 312,
+                "y": 449
+              }
+            ]
+          },
+          "description": "Library"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 364,
+                "y": 432
+              },
+              {
+                "x": 406,
+                "y": 432
+              },
+              {
+                "x": 406,
+                "y": 449
+              },
+              {
+                "x": 364,
+                "y": 449
+              }
+            ]
+          },
+          "description": "lmage"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 412,
+                "y": 432
+              },
+              {
+                "x": 472,
+                "y": 432
+              },
+              {
+                "x": 472,
+                "y": 449
+              },
+              {
+                "x": 412,
+                "y": 449
+              }
+            ]
+          },
+          "description": "Archives"
+        }
+      ]
+    }
+  ]
+}

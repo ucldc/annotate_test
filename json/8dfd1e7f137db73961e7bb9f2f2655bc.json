@@ -1,0 +1,114 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "hapkido",
+          "mid": "/m/0hbj9",
+          "score": 0.60038614
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "textAnnotations": [
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 220,
+                "y": 196
+              },
+              {
+                "x": 248,
+                "y": 196
+              },
+              {
+                "x": 248,
+                "y": 269
+              },
+              {
+                "x": 220,
+                "y": 269
+              }
+            ]
+          },
+          "description": "ORC\nT\nC\n",
+          "locale": "la"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 234,
+                "y": 196
+              },
+              {
+                "x": 248,
+                "y": 196
+              },
+              {
+                "x": 248,
+                "y": 201
+              },
+              {
+                "x": 234,
+                "y": 201
+              }
+            ]
+          },
+          "description": "ORC"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 228,
+                "y": 204
+              },
+              {
+                "x": 233,
+                "y": 204
+              },
+              {
+                "x": 233,
+                "y": 213
+              },
+              {
+                "x": 228,
+                "y": 213
+              }
+            ]
+          },
+          "description": "T"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 220,
+                "y": 257
+              },
+              {
+                "x": 224,
+                "y": 257
+              },
+              {
+                "x": 224,
+                "y": 269
+              },
+              {
+                "x": 220,
+                "y": 269
+              }
+            ]
+          },
+          "description": "C"
+        }
+      ]
+    }
+  ]
+}

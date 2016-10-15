@@ -1,0 +1,39 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "tree",
+          "mid": "/m/07j7r",
+          "score": 0.89164257
+        },
+        {
+          "description": "plant",
+          "mid": "/m/05s2s",
+          "score": 0.80215591
+        },
+        {
+          "description": "land plant",
+          "mid": "/m/01v728",
+          "score": 0.69797164
+        },
+        {
+          "description": "woody plant",
+          "mid": "/m/02hnx9",
+          "score": 0.68231028
+        },
+        {
+          "description": "plantation",
+          "mid": "/m/011yvr",
+          "score": 0.56154919
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "violence": "VERY_UNLIKELY"
+      }
+    }
+  ]
+}

@@ -1,0 +1,548 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "black and white",
+          "mid": "/m/01g6gs",
+          "score": 0.93229043
+        },
+        {
+          "description": "photograph",
+          "mid": "/m/068jd",
+          "score": 0.92741871
+        },
+        {
+          "description": "structure",
+          "mid": "/m/0n68_",
+          "score": 0.8662498
+        },
+        {
+          "description": "column",
+          "mid": "/m/01_m7",
+          "score": 0.82126629
+        },
+        {
+          "description": "monochrome photography",
+          "mid": "/m/03d49p1",
+          "score": 0.7908963
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "textAnnotations": [
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 234,
+                "y": 445
+              },
+              {
+                "x": 368,
+                "y": 445
+              },
+              {
+                "x": 368,
+                "y": 472
+              },
+              {
+                "x": 234,
+                "y": 472
+              }
+            ]
+          },
+          "description": "sest ield-tva1tA Company\nMorean, Ta 12.0 C1eMats, Ardh1teet\ndori. J-410 Piste Zo.14 Jste 3-23-\n",
+          "locale": "et"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 265,
+                "y": 446
+              },
+              {
+                "x": 277,
+                "y": 446
+              },
+              {
+                "x": 277,
+                "y": 451
+              },
+              {
+                "x": 265,
+                "y": 451
+              }
+            ]
+          },
+          "description": "sest"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 280,
+                "y": 446
+              },
+              {
+                "x": 292,
+                "y": 446
+              },
+              {
+                "x": 292,
+                "y": 451
+              },
+              {
+                "x": 280,
+                "y": 451
+              }
+            ]
+          },
+          "description": "ield"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 295,
+                "y": 446
+              },
+              {
+                "x": 297,
+                "y": 446
+              },
+              {
+                "x": 297,
+                "y": 450
+              },
+              {
+                "x": 295,
+                "y": 450
+              }
+            ]
+          },
+          "description": "-"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 299,
+                "y": 446
+              },
+              {
+                "x": 319,
+                "y": 446
+              },
+              {
+                "x": 319,
+                "y": 450
+              },
+              {
+                "x": 299,
+                "y": 450
+              }
+            ]
+          },
+          "description": "tva1tA"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 325,
+                "y": 446
+              },
+              {
+                "x": 349,
+                "y": 446
+              },
+              {
+                "x": 349,
+                "y": 451
+              },
+              {
+                "x": 325,
+                "y": 451
+              }
+            ]
+          },
+          "description": "Company"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 241,
+                "y": 460
+              },
+              {
+                "x": 261,
+                "y": 460
+              },
+              {
+                "x": 261,
+                "y": 465
+              },
+              {
+                "x": 241,
+                "y": 465
+              }
+            ]
+          },
+          "description": "Morean"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 263,
+                "y": 461
+              },
+              {
+                "x": 264,
+                "y": 461
+              },
+              {
+                "x": 264,
+                "y": 465
+              },
+              {
+                "x": 263,
+                "y": 465
+              }
+            ]
+          },
+          "description": ","
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 271,
+                "y": 460
+              },
+              {
+                "x": 276,
+                "y": 460
+              },
+              {
+                "x": 276,
+                "y": 464
+              },
+              {
+                "x": 271,
+                "y": 464
+              }
+            ]
+          },
+          "description": "Ta"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 279,
+                "y": 460
+              },
+              {
+                "x": 287,
+                "y": 460
+              },
+              {
+                "x": 287,
+                "y": 465
+              },
+              {
+                "x": 279,
+                "y": 465
+              }
+            ]
+          },
+          "description": "12.0"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 301,
+                "y": 459
+              },
+              {
+                "x": 329,
+                "y": 459
+              },
+              {
+                "x": 329,
+                "y": 464
+              },
+              {
+                "x": 301,
+                "y": 464
+              }
+            ]
+          },
+          "description": "C1eMats"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 331,
+                "y": 460
+              },
+              {
+                "x": 332,
+                "y": 460
+              },
+              {
+                "x": 332,
+                "y": 464
+              },
+              {
+                "x": 331,
+                "y": 464
+              }
+            ]
+          },
+          "description": ","
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 336,
+                "y": 459
+              },
+              {
+                "x": 367,
+                "y": 459
+              },
+              {
+                "x": 367,
+                "y": 464
+              },
+              {
+                "x": 336,
+                "y": 464
+              }
+            ]
+          },
+          "description": "Ardh1teet"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 234,
+                "y": 469
+              },
+              {
+                "x": 247,
+                "y": 469
+              },
+              {
+                "x": 247,
+                "y": 473
+              },
+              {
+                "x": 234,
+                "y": 473
+              }
+            ]
+          },
+          "description": "dori"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 249,
+                "y": 469
+              },
+              {
+                "x": 250,
+                "y": 469
+              },
+              {
+                "x": 250,
+                "y": 473
+              },
+              {
+                "x": 249,
+                "y": 473
+              }
+            ]
+          },
+          "description": "."
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 256,
+                "y": 469
+              },
+              {
+                "x": 258,
+                "y": 469
+              },
+              {
+                "x": 258,
+                "y": 473
+              },
+              {
+                "x": 256,
+                "y": 473
+              }
+            ]
+          },
+          "description": "J"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 261,
+                "y": 471
+              },
+              {
+                "x": 262,
+                "y": 471
+              },
+              {
+                "x": 262,
+                "y": 472
+              },
+              {
+                "x": 261,
+                "y": 472
+              }
+            ]
+          },
+          "description": "-"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 264,
+                "y": 469
+              },
+              {
+                "x": 274,
+                "y": 469
+              },
+              {
+                "x": 274,
+                "y": 473
+              },
+              {
+                "x": 264,
+                "y": 473
+              }
+            ]
+          },
+          "description": "410"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 280,
+                "y": 468
+              },
+              {
+                "x": 296,
+                "y": 468
+              },
+              {
+                "x": 296,
+                "y": 473
+              },
+              {
+                "x": 280,
+                "y": 473
+              }
+            ]
+          },
+          "description": "Piste"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 302,
+                "y": 468
+              },
+              {
+                "x": 319,
+                "y": 468
+              },
+              {
+                "x": 319,
+                "y": 473
+              },
+              {
+                "x": 302,
+                "y": 473
+              }
+            ]
+          },
+          "description": "Zo.14"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 332,
+                "y": 468
+              },
+              {
+                "x": 345,
+                "y": 468
+              },
+              {
+                "x": 345,
+                "y": 472
+              },
+              {
+                "x": 332,
+                "y": 472
+              }
+            ]
+          },
+          "description": "Jste"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 352,
+                "y": 468
+              },
+              {
+                "x": 368,
+                "y": 468
+              },
+              {
+                "x": 368,
+                "y": 473
+              },
+              {
+                "x": 352,
+                "y": 473
+              }
+            ]
+          },
+          "description": "3-23-"
+        }
+      ]
+    }
+  ]
+}

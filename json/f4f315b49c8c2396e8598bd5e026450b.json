@@ -1,0 +1,34 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "black and white",
+          "mid": "/m/01g6gs",
+          "score": 0.93487823
+        },
+        {
+          "description": "monochrome photography",
+          "mid": "/m/03d49p1",
+          "score": 0.81123662
+        },
+        {
+          "description": "monochrome",
+          "mid": "/m/01mwkf",
+          "score": 0.7550658
+        },
+        {
+          "description": "snow",
+          "mid": "/m/06_dn",
+          "score": 0.57428932
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      }
+    }
+  ]
+}

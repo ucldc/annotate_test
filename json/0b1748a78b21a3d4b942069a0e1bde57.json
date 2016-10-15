@@ -1,0 +1,39 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "black",
+          "mid": "/m/019sc",
+          "score": 0.94399875
+        },
+        {
+          "description": "black and white",
+          "mid": "/m/01g6gs",
+          "score": 0.93120682
+        },
+        {
+          "description": "road",
+          "mid": "/m/06gfj",
+          "score": 0.8946327
+        },
+        {
+          "description": "photography",
+          "mid": "/m/05wkw",
+          "score": 0.83090097
+        },
+        {
+          "description": "lane",
+          "mid": "/m/033j3c",
+          "score": 0.81194818
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      }
+    }
+  ]
+}

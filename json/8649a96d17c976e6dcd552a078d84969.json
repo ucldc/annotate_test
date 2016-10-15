@@ -1,0 +1,134 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "black and white",
+          "mid": "/m/01g6gs",
+          "score": 0.93243
+        },
+        {
+          "description": "monochrome photography",
+          "mid": "/m/03d49p1",
+          "score": 0.79093987
+        },
+        {
+          "description": "track",
+          "mid": "/m/01vk9q",
+          "score": 0.77102089
+        },
+        {
+          "description": "monochrome",
+          "mid": "/m/01mwkf",
+          "score": 0.72737515
+        },
+        {
+          "description": "waterway",
+          "mid": "/m/017m8l",
+          "score": 0.586051
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "textAnnotations": [
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 60,
+                "y": 15
+              },
+              {
+                "x": 72,
+                "y": 15
+              },
+              {
+                "x": 72,
+                "y": 43
+              },
+              {
+                "x": 60,
+                "y": 43
+              }
+            ]
+          },
+          "description": "-V,, if\n",
+          "locale": "la"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 73,
+                "y": 16
+              },
+              {
+                "x": 73,
+                "y": 21
+              },
+              {
+                "x": 66,
+                "y": 20
+              },
+              {
+                "x": 66,
+                "y": 15
+              }
+            ]
+          },
+          "description": "-V"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 72,
+                "y": 23
+              },
+              {
+                "x": 71,
+                "y": 29
+              },
+              {
+                "x": 63,
+                "y": 28
+              },
+              {
+                "x": 63,
+                "y": 22
+              }
+            ]
+          },
+          "description": ",,"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 71,
+                "y": 36
+              },
+              {
+                "x": 70,
+                "y": 43
+              },
+              {
+                "x": 61,
+                "y": 42
+              },
+              {
+                "x": 62,
+                "y": 35
+              }
+            ]
+          },
+          "description": "if"
+        }
+      ]
+    }
+  ]
+}

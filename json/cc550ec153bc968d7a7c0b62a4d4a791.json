@@ -1,0 +1,101 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "tree",
+          "mid": "/m/07j7r",
+          "score": 0.82982695
+        },
+        {
+          "description": "soil",
+          "mid": "/m/09dv7",
+          "score": 0.69730568
+        },
+        {
+          "description": "history",
+          "mid": "/m/03g3w",
+          "score": 0.548354
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "violence": "POSSIBLE"
+      },
+      "textAnnotations": [
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 37,
+                "y": 13
+              },
+              {
+                "x": 87,
+                "y": 13
+              },
+              {
+                "x": 87,
+                "y": 23
+              },
+              {
+                "x": 37,
+                "y": 23
+              }
+            ]
+          },
+          "description": "smoke Lempre\n",
+          "locale": "en"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 37,
+                "y": 13
+              },
+              {
+                "x": 56,
+                "y": 13
+              },
+              {
+                "x": 56,
+                "y": 23
+              },
+              {
+                "x": 37,
+                "y": 23
+              }
+            ]
+          },
+          "description": "smoke"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 61,
+                "y": 13
+              },
+              {
+                "x": 87,
+                "y": 13
+              },
+              {
+                "x": 87,
+                "y": 23
+              },
+              {
+                "x": 61,
+                "y": 23
+              }
+            ]
+          },
+          "description": "Lempre"
+        }
+      ]
+    }
+  ]
+}

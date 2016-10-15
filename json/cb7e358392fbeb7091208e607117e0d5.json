@@ -1,0 +1,387 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "text",
+          "mid": "/m/07s6nbt",
+          "score": 0.88844347
+        },
+        {
+          "description": "product",
+          "mid": "/m/01jwgf",
+          "score": 0.70168442
+        },
+        {
+          "description": "line",
+          "mid": "/m/03scnj",
+          "score": 0.67470485
+        },
+        {
+          "description": "diagram",
+          "mid": "/m/02v0m2",
+          "score": 0.63575584
+        },
+        {
+          "description": "document",
+          "mid": "/m/015bv3",
+          "score": 0.62319309
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "textAnnotations": [
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 21,
+                "y": 31
+              },
+              {
+                "x": 66,
+                "y": 31
+              },
+              {
+                "x": 66,
+                "y": 185
+              },
+              {
+                "x": 21,
+                "y": 185
+              }
+            ]
+          },
+          "description": "=ーーーー\nIlli- i ... ll limi ill i lll l'iM i\n",
+          "locale": "la"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 21,
+                "y": 103
+              },
+              {
+                "x": 27,
+                "y": 103
+              },
+              {
+                "x": 27,
+                "y": 109
+              },
+              {
+                "x": 21,
+                "y": 109
+              }
+            ]
+          },
+          "description": "="
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 28,
+                "y": 95
+              },
+              {
+                "x": 66,
+                "y": 95
+              },
+              {
+                "x": 66,
+                "y": 109
+              },
+              {
+                "x": 28,
+                "y": 109
+              }
+            ]
+          },
+          "description": "ーーーー"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 23,
+                "y": 31
+              },
+              {
+                "x": 30,
+                "y": 31
+              },
+              {
+                "x": 30,
+                "y": 45
+              },
+              {
+                "x": 23,
+                "y": 45
+              }
+            ]
+          },
+          "description": "Illi"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 24,
+                "y": 47
+              },
+              {
+                "x": 30,
+                "y": 47
+              },
+              {
+                "x": 30,
+                "y": 50
+              },
+              {
+                "x": 24,
+                "y": 50
+              }
+            ]
+          },
+          "description": "-"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 21,
+                "y": 55
+              },
+              {
+                "x": 30,
+                "y": 55
+              },
+              {
+                "x": 30,
+                "y": 57
+              },
+              {
+                "x": 21,
+                "y": 57
+              }
+            ]
+          },
+          "description": "i"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 21,
+                "y": 62
+              },
+              {
+                "x": 30,
+                "y": 62
+              },
+              {
+                "x": 30,
+                "y": 65
+              },
+              {
+                "x": 21,
+                "y": 65
+              }
+            ]
+          },
+          "description": "..."
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 21,
+                "y": 70
+              },
+              {
+                "x": 30,
+                "y": 70
+              },
+              {
+                "x": 30,
+                "y": 79
+              },
+              {
+                "x": 21,
+                "y": 79
+              }
+            ]
+          },
+          "description": "ll"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 21,
+                "y": 89
+              },
+              {
+                "x": 30,
+                "y": 89
+              },
+              {
+                "x": 30,
+                "y": 109
+              },
+              {
+                "x": 21,
+                "y": 109
+              }
+            ]
+          },
+          "description": "limi"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 21,
+                "y": 115
+              },
+              {
+                "x": 30,
+                "y": 115
+              },
+              {
+                "x": 30,
+                "y": 131
+              },
+              {
+                "x": 21,
+                "y": 131
+              }
+            ]
+          },
+          "description": "ill"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 21,
+                "y": 135
+              },
+              {
+                "x": 30,
+                "y": 135
+              },
+              {
+                "x": 30,
+                "y": 137
+              },
+              {
+                "x": 21,
+                "y": 137
+              }
+            ]
+          },
+          "description": "i"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 21,
+                "y": 142
+              },
+              {
+                "x": 30,
+                "y": 142
+              },
+              {
+                "x": 30,
+                "y": 152
+              },
+              {
+                "x": 21,
+                "y": 152
+              }
+            ]
+          },
+          "description": "lll"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 21,
+                "y": 157
+              },
+              {
+                "x": 30,
+                "y": 157
+              },
+              {
+                "x": 30,
+                "y": 163
+              },
+              {
+                "x": 21,
+                "y": 163
+              }
+            ]
+          },
+          "description": "l'"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 21,
+                "y": 164
+              },
+              {
+                "x": 30,
+                "y": 164
+              },
+              {
+                "x": 30,
+                "y": 179
+              },
+              {
+                "x": 21,
+                "y": 179
+              }
+            ]
+          },
+          "description": "iM"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 21,
+                "y": 184
+              },
+              {
+                "x": 30,
+                "y": 184
+              },
+              {
+                "x": 30,
+                "y": 185
+              },
+              {
+                "x": 21,
+                "y": 185
+              }
+            ]
+          },
+          "description": "i"
+        }
+      ]
+    }
+  ]
+}

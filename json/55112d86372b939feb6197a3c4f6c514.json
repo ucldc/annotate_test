@@ -1,0 +1,39 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "photograph",
+          "mid": "/m/068jd",
+          "score": 0.93180764
+        },
+        {
+          "description": "black and white",
+          "mid": "/m/01g6gs",
+          "score": 0.91456115
+        },
+        {
+          "description": "social group",
+          "mid": "/m/01b4q9",
+          "score": 0.91416574
+        },
+        {
+          "description": "people",
+          "mid": "/m/09g5pq",
+          "score": 0.9117834
+        },
+        {
+          "description": "person",
+          "mid": "/m/01g317",
+          "score": 0.90023011
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      }
+    }
+  ]
+}

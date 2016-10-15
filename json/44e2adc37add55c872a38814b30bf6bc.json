@@ -1,0 +1,39 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "black and white",
+          "mid": "/m/01g6gs",
+          "score": 0.92717379
+        },
+        {
+          "description": "photography",
+          "mid": "/m/05wkw",
+          "score": 0.86465293
+        },
+        {
+          "description": "city",
+          "mid": "/m/01n32",
+          "score": 0.83657885
+        },
+        {
+          "description": "mecca",
+          "mid": "/m/058wp",
+          "score": 0.78034043
+        },
+        {
+          "description": "monochrome photography",
+          "mid": "/m/03d49p1",
+          "score": 0.74766356
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      }
+    }
+  ]
+}

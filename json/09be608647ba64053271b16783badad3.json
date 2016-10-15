@@ -1,0 +1,134 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "text",
+          "mid": "/m/07s6nbt",
+          "score": 0.88067079
+        },
+        {
+          "description": "line",
+          "mid": "/m/03scnj",
+          "score": 0.68246138
+        },
+        {
+          "description": "diagram",
+          "mid": "/m/02v0m2",
+          "score": 0.60391629
+        },
+        {
+          "description": "document",
+          "mid": "/m/015bv3",
+          "score": 0.60206938
+        },
+        {
+          "description": "brand",
+          "mid": "/m/01cd9",
+          "score": 0.59691668
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "violence": "VERY_UNLIKELY"
+      },
+      "textAnnotations": [
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 103,
+                "y": 92
+              },
+              {
+                "x": 151,
+                "y": 92
+              },
+              {
+                "x": 151,
+                "y": 105
+              },
+              {
+                "x": 103,
+                "y": 105
+              }
+            ]
+          },
+          "description": "Ren cos era\n",
+          "locale": "gl"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 104,
+                "y": 92
+              },
+              {
+                "x": 116,
+                "y": 93
+              },
+              {
+                "x": 115,
+                "y": 102
+              },
+              {
+                "x": 103,
+                "y": 101
+              }
+            ]
+          },
+          "description": "Ren"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 118,
+                "y": 93
+              },
+              {
+                "x": 131,
+                "y": 94
+              },
+              {
+                "x": 130,
+                "y": 103
+              },
+              {
+                "x": 117,
+                "y": 102
+              }
+            ]
+          },
+          "description": "cos"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 140,
+                "y": 95
+              },
+              {
+                "x": 151,
+                "y": 96
+              },
+              {
+                "x": 150,
+                "y": 105
+              },
+              {
+                "x": 139,
+                "y": 104
+              }
+            ]
+          },
+          "description": "era"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "text",
+          "mid": "/m/07s6nbt",
+          "score": 0.93354034
+        },
+        {
+          "description": "document",
+          "mid": "/m/015bv3",
+          "score": 0.65407211
+        },
+        {
+          "description": "technology",
+          "mid": "/m/07c1v",
+          "score": 0.526258
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "medical": "UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      }
+    }
+  ]
+}

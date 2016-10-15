@@ -1,0 +1,272 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "photograph",
+          "mid": "/m/068jd",
+          "score": 0.93507749
+        },
+        {
+          "description": "black and white",
+          "mid": "/m/01g6gs",
+          "score": 0.93354106
+        },
+        {
+          "description": "car",
+          "mid": "/m/0k4j",
+          "score": 0.87820184
+        },
+        {
+          "description": "vehicle",
+          "mid": "/m/07yv9",
+          "score": 0.80892026
+        },
+        {
+          "description": "monochrome photography",
+          "mid": "/m/03d49p1",
+          "score": 0.80062807
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "textAnnotations": [
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 187,
+                "y": 15
+              },
+              {
+                "x": 621,
+                "y": 15
+              },
+              {
+                "x": 621,
+                "y": 223
+              },
+              {
+                "x": 187,
+                "y": 223
+              }
+            ]
+          },
+          "description": "cん\n県\n170\n3さ\newer, b\n",
+          "locale": "ja"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 429,
+                "y": 16
+              },
+              {
+                "x": 432,
+                "y": 16
+              },
+              {
+                "x": 432,
+                "y": 21
+              },
+              {
+                "x": 429,
+                "y": 21
+              }
+            ]
+          },
+          "description": "c"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 435,
+                "y": 15
+              },
+              {
+                "x": 438,
+                "y": 15
+              },
+              {
+                "x": 438,
+                "y": 21
+              },
+              {
+                "x": 435,
+                "y": 21
+              }
+            ]
+          },
+          "description": "ん"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 187,
+                "y": 101
+              },
+              {
+                "x": 196,
+                "y": 101
+              },
+              {
+                "x": 196,
+                "y": 108
+              },
+              {
+                "x": 187,
+                "y": 108
+              }
+            ]
+          },
+          "description": "県"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 606,
+                "y": 33
+              },
+              {
+                "x": 614,
+                "y": 30
+              },
+              {
+                "x": 620,
+                "y": 47
+              },
+              {
+                "x": 612,
+                "y": 50
+              }
+            ]
+          },
+          "description": "170"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 615,
+                "y": 36
+              },
+              {
+                "x": 621,
+                "y": 38
+              },
+              {
+                "x": 618,
+                "y": 49
+              },
+              {
+                "x": 612,
+                "y": 48
+              }
+            ]
+          },
+          "description": "3"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 611,
+                "y": 49
+              },
+              {
+                "x": 618,
+                "y": 51
+              },
+              {
+                "x": 613,
+                "y": 68
+              },
+              {
+                "x": 606,
+                "y": 66
+              }
+            ]
+          },
+          "description": "さ"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 503,
+                "y": 189
+              },
+              {
+                "x": 507,
+                "y": 189
+              },
+              {
+                "x": 507,
+                "y": 213
+              },
+              {
+                "x": 503,
+                "y": 213
+              }
+            ]
+          },
+          "description": "ewer"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 504,
+                "y": 215
+              },
+              {
+                "x": 508,
+                "y": 215
+              },
+              {
+                "x": 508,
+                "y": 216
+              },
+              {
+                "x": 504,
+                "y": 216
+              }
+            ]
+          },
+          "description": ","
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 504,
+                "y": 221
+              },
+              {
+                "x": 508,
+                "y": 221
+              },
+              {
+                "x": 508,
+                "y": 223
+              },
+              {
+                "x": 504,
+                "y": 223
+              }
+            ]
+          },
+          "description": "b"
+        }
+      ]
+    }
+  ]
+}

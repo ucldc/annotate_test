@@ -1,0 +1,157 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "road",
+          "mid": "/m/06gfj",
+          "score": 0.96596736
+        },
+        {
+          "description": "black",
+          "mid": "/m/019sc",
+          "score": 0.93771392
+        },
+        {
+          "description": "black and white",
+          "mid": "/m/01g6gs",
+          "score": 0.93396968
+        },
+        {
+          "description": "photograph",
+          "mid": "/m/068jd",
+          "score": 0.9274587
+        },
+        {
+          "description": "street",
+          "mid": "/m/01c8br",
+          "score": 0.91937721
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "textAnnotations": [
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 240,
+                "y": 23
+              },
+              {
+                "x": 329,
+                "y": 23
+              },
+              {
+                "x": 329,
+                "y": 42
+              },
+              {
+                "x": 240,
+                "y": 42
+              }
+            ]
+          },
+          "description": "EPERT CARPET &\nLI\n",
+          "locale": "mt"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 241,
+                "y": 23
+              },
+              {
+                "x": 267,
+                "y": 24
+              },
+              {
+                "x": 266,
+                "y": 39
+              },
+              {
+                "x": 240,
+                "y": 38
+              }
+            ]
+          },
+          "description": "EPERT"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 271,
+                "y": 23
+              },
+              {
+                "x": 303,
+                "y": 26
+              },
+              {
+                "x": 301,
+                "y": 39
+              },
+              {
+                "x": 270,
+                "y": 36
+              }
+            ]
+          },
+          "description": "CARPET"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 307,
+                "y": 27
+              },
+              {
+                "x": 313,
+                "y": 28
+              },
+              {
+                "x": 312,
+                "y": 41
+              },
+              {
+                "x": 306,
+                "y": 40
+              }
+            ]
+          },
+          "description": "&"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 320,
+                "y": 27
+              },
+              {
+                "x": 329,
+                "y": 27
+              },
+              {
+                "x": 328,
+                "y": 42
+              },
+              {
+                "x": 319,
+                "y": 42
+              }
+            ]
+          },
+          "description": "LI"
+        }
+      ]
+    }
+  ]
+}

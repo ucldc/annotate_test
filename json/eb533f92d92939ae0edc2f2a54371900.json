@@ -1,0 +1,39 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "horse and buggy",
+          "mid": "/m/02j091",
+          "score": 0.98276496
+        },
+        {
+          "description": "carriage",
+          "mid": "/m/01hffk",
+          "score": 0.96627575
+        },
+        {
+          "description": "black and white",
+          "mid": "/m/01g6gs",
+          "score": 0.90900218
+        },
+        {
+          "description": "coachman",
+          "mid": "/m/03kn0w",
+          "score": 0.88431543
+        },
+        {
+          "description": "horse harness",
+          "mid": "/m/02z6033",
+          "score": 0.86811459
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      }
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "photograph",
+          "mid": "/m/068jd",
+          "score": 0.92887145
+        },
+        {
+          "description": "image",
+          "mid": "/m/0jg24",
+          "score": 0.90206993
+        },
+        {
+          "description": "painting",
+          "mid": "/m/05qdh",
+          "score": 0.8698771
+        },
+        {
+          "description": "wall",
+          "mid": "/m/09qqq",
+          "score": 0.79020965
+        },
+        {
+          "description": "picture frame",
+          "mid": "/m/06z37_",
+          "score": 0.76909959
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "violence": "UNLIKELY"
+      },
+      "textAnnotations": [
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 62,
+                "y": 86
+              },
+              {
+                "x": 82,
+                "y": 86
+              },
+              {
+                "x": 82,
+                "y": 154
+              },
+              {
+                "x": 62,
+                "y": 154
+              }
+            ]
+          },
+          "description": ".Yf メ\n격'\n",
+          "locale": "ja"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 83,
+                "y": 129
+              },
+              {
+                "x": 82,
+                "y": 144
+              },
+              {
+                "x": 72,
+                "y": 143
+              },
+              {
+                "x": 73,
+                "y": 128
+              }
+            ]
+          },
+          "description": ".Yf"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 77,
+                "y": 152
+              },
+              {
+                "x": 77,
+                "y": 154
+              },
+              {
+                "x": 73,
+                "y": 154
+              },
+              {
+                "x": 73,
+                "y": 152
+              }
+            ]
+          },
+          "description": "メ"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 62,
+                "y": 86
+              },
+              {
+                "x": 70,
+                "y": 86
+              },
+              {
+                "x": 70,
+                "y": 92
+              },
+              {
+                "x": 62,
+                "y": 92
+              }
+            ]
+          },
+          "description": "격"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {},
+              {
+                "x": -1
+              },
+              {
+                "x": -1,
+                "y": -1
+              },
+              {
+                "y": -1
+              }
+            ]
+          },
+          "description": "'"
+        }
+      ]
+    }
+  ]
+}

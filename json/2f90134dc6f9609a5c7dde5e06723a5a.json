@@ -1,0 +1,267 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "text",
+          "mid": "/m/07s6nbt",
+          "score": 0.92648917
+        },
+        {
+          "description": "picture frame",
+          "mid": "/m/06z37_",
+          "score": 0.57342684
+        },
+        {
+          "description": "material",
+          "mid": "/m/01l0y0",
+          "score": 0.51159531
+        },
+        {
+          "description": "modern art",
+          "mid": "/m/015r61",
+          "score": 0.5017702
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "medical": "UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "violence": "VERY_UNLIKELY"
+      },
+      "textAnnotations": [
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 9,
+                "y": 416
+              },
+              {
+                "x": 327,
+                "y": 416
+              },
+              {
+                "x": 327,
+                "y": 439
+              },
+              {
+                "x": 9,
+                "y": 439
+              }
+            ]
+          },
+          "description": "Co.) fan Hic\nLooking S w C and M-r\n",
+          "locale": "la"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 215,
+                "y": 416
+              },
+              {
+                "x": 243,
+                "y": 416
+              },
+              {
+                "x": 243,
+                "y": 435
+              },
+              {
+                "x": 215,
+                "y": 435
+              }
+            ]
+          },
+          "description": "Co.)"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 250,
+                "y": 416
+              },
+              {
+                "x": 282,
+                "y": 416
+              },
+              {
+                "x": 282,
+                "y": 435
+              },
+              {
+                "x": 250,
+                "y": 435
+              }
+            ]
+          },
+          "description": "fan"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 313,
+                "y": 416
+              },
+              {
+                "x": 327,
+                "y": 416
+              },
+              {
+                "x": 327,
+                "y": 435
+              },
+              {
+                "x": 313,
+                "y": 435
+              }
+            ]
+          },
+          "description": "Hic"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 9,
+                "y": 418
+              },
+              {
+                "x": 64,
+                "y": 418
+              },
+              {
+                "x": 64,
+                "y": 439
+              },
+              {
+                "x": 9,
+                "y": 439
+              }
+            ]
+          },
+          "description": "Looking"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 68,
+                "y": 418
+              },
+              {
+                "x": 75,
+                "y": 418
+              },
+              {
+                "x": 75,
+                "y": 439
+              },
+              {
+                "x": 68,
+                "y": 439
+              }
+            ]
+          },
+          "description": "S"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 80,
+                "y": 418
+              },
+              {
+                "x": 93,
+                "y": 418
+              },
+              {
+                "x": 93,
+                "y": 439
+              },
+              {
+                "x": 80,
+                "y": 439
+              }
+            ]
+          },
+          "description": "w"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 102,
+                "y": 418
+              },
+              {
+                "x": 112,
+                "y": 418
+              },
+              {
+                "x": 112,
+                "y": 439
+              },
+              {
+                "x": 102,
+                "y": 439
+              }
+            ]
+          },
+          "description": "C"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 142,
+                "y": 418
+              },
+              {
+                "x": 164,
+                "y": 418
+              },
+              {
+                "x": 164,
+                "y": 439
+              },
+              {
+                "x": 142,
+                "y": 439
+              }
+            ]
+          },
+          "description": "and"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 173,
+                "y": 418
+              },
+              {
+                "x": 200,
+                "y": 418
+              },
+              {
+                "x": 200,
+                "y": 439
+              },
+              {
+                "x": 173,
+                "y": 439
+              }
+            ]
+          },
+          "description": "M-r"
+        }
+      ]
+    }
+  ]
+}

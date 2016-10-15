@@ -1,0 +1,88 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "photograph",
+          "mid": "/m/068jd",
+          "score": 0.93224448
+        },
+        {
+          "description": "black and white",
+          "mid": "/m/01g6gs",
+          "score": 0.90690869
+        },
+        {
+          "description": "image",
+          "mid": "/m/0jg24",
+          "score": 0.900013
+        },
+        {
+          "description": "monochrome photography",
+          "mid": "/m/03d49p1",
+          "score": 0.568479
+        },
+        {
+          "description": "picture frame",
+          "mid": "/m/06z37_",
+          "score": 0.56381905
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "violence": "VERY_UNLIKELY"
+      },
+      "textAnnotations": [
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 303,
+                "y": 180
+              },
+              {
+                "x": 345,
+                "y": 180
+              },
+              {
+                "x": 345,
+                "y": 202
+              },
+              {
+                "x": 303,
+                "y": 202
+              }
+            ]
+          },
+          "description": "DOGS\n",
+          "locale": "en"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 306,
+                "y": 180
+              },
+              {
+                "x": 345,
+                "y": 187
+              },
+              {
+                "x": 343,
+                "y": 202
+              },
+              {
+                "x": 303,
+                "y": 195
+              }
+            ]
+          },
+          "description": "DOGS"
+        }
+      ]
+    }
+  ]
+}

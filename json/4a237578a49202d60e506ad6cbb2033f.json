@@ -1,0 +1,39 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "black",
+          "mid": "/m/019sc",
+          "score": 0.95296776
+        },
+        {
+          "description": "white",
+          "mid": "/m/083jv",
+          "score": 0.94244117
+        },
+        {
+          "description": "black and white",
+          "mid": "/m/01g6gs",
+          "score": 0.938814
+        },
+        {
+          "description": "photograph",
+          "mid": "/m/068jd",
+          "score": 0.93431473
+        },
+        {
+          "description": "image",
+          "mid": "/m/0jg24",
+          "score": 0.90476388
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "spoof": "UNLIKELY",
+        "violence": "UNLIKELY"
+      }
+    }
+  ]
+}

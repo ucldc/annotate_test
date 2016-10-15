@@ -1,0 +1,502 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "text",
+          "mid": "/m/07s6nbt",
+          "score": 0.92169189
+        },
+        {
+          "description": "wood",
+          "mid": "/m/083vt",
+          "score": 0.64614755
+        },
+        {
+          "description": "brick",
+          "mid": "/m/01g0g",
+          "score": 0.55714673
+        },
+        {
+          "description": "material",
+          "mid": "/m/01l0y0",
+          "score": 0.5270347
+        },
+        {
+          "description": "picture frame",
+          "mid": "/m/06z37_",
+          "score": 0.52598071
+        }
+      ],
+      "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "violence": "VERY_UNLIKELY"
+      },
+      "textAnnotations": [
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 305,
+                "y": 87
+              },
+              {
+                "x": 413,
+                "y": 87
+              },
+              {
+                "x": 413,
+                "y": 170
+              },
+              {
+                "x": 305,
+                "y": 170
+              }
+            ]
+          },
+          "description": "DANGER\nEMPIONEES\nNOT CROSS BETWEEN\nCARS ON TRACK 30 AT\nTRACK THIS IS A REPAIR TRACK\nCARS ARE SUBJECT ",
+          "locale": "en"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 316,
+                "y": 89
+              },
+              {
+                "x": 403,
+                "y": 87
+              },
+              {
+                "x": 403,
+                "y": 102
+              },
+              {
+                "x": 316,
+                "y": 104
+              }
+            ]
+          },
+          "description": "DANGER"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 310,
+                "y": 103
+              },
+              {
+                "x": 410,
+                "y": 101
+              },
+              {
+                "x": 410,
+                "y": 120
+              },
+              {
+                "x": 310,
+                "y": 122
+              }
+            ]
+          },
+          "description": "EMPIONEES"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 326,
+                "y": 123
+              },
+              {
+                "x": 340,
+                "y": 123
+              },
+              {
+                "x": 340,
+                "y": 132
+              },
+              {
+                "x": 326,
+                "y": 132
+              }
+            ]
+          },
+          "description": "NOT"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 343,
+                "y": 123
+              },
+              {
+                "x": 369,
+                "y": 122
+              },
+              {
+                "x": 369,
+                "y": 131
+              },
+              {
+                "x": 343,
+                "y": 132
+              }
+            ]
+          },
+          "description": "CROSS"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 373,
+                "y": 122
+              },
+              {
+                "x": 408,
+                "y": 121
+              },
+              {
+                "x": 408,
+                "y": 130
+              },
+              {
+                "x": 373,
+                "y": 131
+              }
+            ]
+          },
+          "description": "BETWEEN"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 308,
+                "y": 130
+              },
+              {
+                "x": 329,
+                "y": 130
+              },
+              {
+                "x": 329,
+                "y": 142
+              },
+              {
+                "x": 308,
+                "y": 142
+              }
+            ]
+          },
+          "description": "CARS"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 335,
+                "y": 130
+              },
+              {
+                "x": 345,
+                "y": 130
+              },
+              {
+                "x": 345,
+                "y": 142
+              },
+              {
+                "x": 335,
+                "y": 142
+              }
+            ]
+          },
+          "description": "ON"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 351,
+                "y": 130
+              },
+              {
+                "x": 377,
+                "y": 130
+              },
+              {
+                "x": 377,
+                "y": 142
+              },
+              {
+                "x": 351,
+                "y": 142
+              }
+            ]
+          },
+          "description": "TRACK"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 383,
+                "y": 130
+              },
+              {
+                "x": 395,
+                "y": 130
+              },
+              {
+                "x": 395,
+                "y": 142
+              },
+              {
+                "x": 383,
+                "y": 142
+              }
+            ]
+          },
+          "description": "30"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 402,
+                "y": 130
+              },
+              {
+                "x": 413,
+                "y": 130
+              },
+              {
+                "x": 413,
+                "y": 142
+              },
+              {
+                "x": 402,
+                "y": 142
+              }
+            ]
+          },
+          "description": "AT"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 347,
+                "y": 139
+              },
+              {
+                "x": 371,
+                "y": 139
+              },
+              {
+                "x": 371,
+                "y": 151
+              },
+              {
+                "x": 347,
+                "y": 151
+              }
+            ]
+          },
+          "description": "TRACK"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 305,
+                "y": 149
+              },
+              {
+                "x": 324,
+                "y": 149
+              },
+              {
+                "x": 324,
+                "y": 160
+              },
+              {
+                "x": 305,
+                "y": 160
+              }
+            ]
+          },
+          "description": "THIS"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 327,
+                "y": 149
+              },
+              {
+                "x": 336,
+                "y": 149
+              },
+              {
+                "x": 336,
+                "y": 160
+              },
+              {
+                "x": 327,
+                "y": 160
+              }
+            ]
+          },
+          "description": "IS"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 339,
+                "y": 149
+              },
+              {
+                "x": 343,
+                "y": 149
+              },
+              {
+                "x": 343,
+                "y": 160
+              },
+              {
+                "x": 339,
+                "y": 160
+              }
+            ]
+          },
+          "description": "A"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 349,
+                "y": 149
+              },
+              {
+                "x": 377,
+                "y": 149
+              },
+              {
+                "x": 377,
+                "y": 160
+              },
+              {
+                "x": 349,
+                "y": 160
+              }
+            ]
+          },
+          "description": "REPAIR"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 382,
+                "y": 149
+              },
+              {
+                "x": 411,
+                "y": 149
+              },
+              {
+                "x": 411,
+                "y": 160
+              },
+              {
+                "x": 382,
+                "y": 160
+              }
+            ]
+          },
+          "description": "TRACK"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 306,
+                "y": 160
+              },
+              {
+                "x": 327,
+                "y": 160
+              },
+              {
+                "x": 327,
+                "y": 170
+              },
+              {
+                "x": 306,
+                "y": 170
+              }
+            ]
+          },
+          "description": "CARS"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 331,
+                "y": 159
+              },
+              {
+                "x": 345,
+                "y": 159
+              },
+              {
+                "x": 345,
+                "y": 169
+              },
+              {
+                "x": 331,
+                "y": 169
+              }
+            ]
+          },
+          "description": "ARE"
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 347,
+                "y": 159
+              },
+              {
+                "x": 380,
+                "y": 158
+              },
+              {
+                "x": 380,
+                "y": 168
+              },
+              {
+                "x": 347,
+                "y": 169
+              }
+            ]
+          },
+          "description": "SUBJECT"
+        }
+      ]
+    }
+  ]
+}
