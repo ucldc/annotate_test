@@ -11,6 +11,19 @@ I did this by getting a 90 trial account with a $300 test credit. If I'm reading
 then it would cost ~$12,000 to run all the google vision API features on all ~630k Calisphere images, 
 or $20 per 1,000 images.
 
+The following features were requested from each file:
+ * LANDMARK_DETECTION
+ * LABEL_DETECTION
+ * SAFE_SEARCH_DETECTION
+ * TEXT_DETECTION
+ * FACE_DETECTION
+ * LOGO_DETECTION
+
+The face dection and text detection were run on the 640x480 image. Recommended 
+sizes for face detection is 1600x1200 and for text it is 1024x768. A next test
+might be to re-run these feature on higher resolution versions (where available, these
+samples are from the "thumbnail" server).
+
 
   thumbnail         | item on calisphere    | JSON
 --------------------|-----------------------|-----
