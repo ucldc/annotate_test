@@ -7,7 +7,8 @@ all the images through google vision API.
 
 https://cloud.google.com/vision/
 
-I did this by getting a 90 trial account with a $300 test credit. If I'm reading the prices correctly
+I did this by getting a 60 day [free trial account](https://cloud.google.com/free-trial/) 
+with a $300 test credit. If I'm [reading the prices correctly](https://cloud.google.com/vision/pricing)
 then it would cost ~$12,000 to run all the google vision API features on all ~630k Calisphere images, 
 or $20 per 1,000 images.
 
