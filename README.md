@@ -1,9 +1,11 @@
 # Calisphere Google Vision API test
 
-I took 100 random images from Calisphere. These were limited to images larger than 150 x 150 
-in the thumbnail server (min size for the google vision API). I resized them to be no larger than
-640 x 480 and uploaded them to google cloud storage. Then, I wrote a quick python script run
-all the images through google vision API.
+I took the first 100 images from a 1% random sample of reference
+images in Calisphere. These were limited to images larger than 150
+x 150 in the thumbnail server (min size for the google vision API).
+I resized them to be no larger than 640 x 480 and uploaded them to
+google cloud storage. Then, I wrote a quick python script to run all
+the images through google vision API and save the reuslts.
 
 https://cloud.google.com/vision/
 
